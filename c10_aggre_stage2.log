@@ -1,0 +1,2962 @@
+| Building net
+0.2
+Warmup Net1
+
+Warmup Net2
+
+Test Epoch: 0, Accuracy: 59.540, Precision: 62.570, Recall: 59.540, F1: 58.824, L_1: 50000, U_1: 0, L_2: 50000, U_2: 0
+
+Warmup Net1
+
+Warmup Net2
+
+Test Epoch: 1, Accuracy: 71.050, Precision: 73.045, Recall: 71.050, F1: 70.697, L_1: 50000, U_1: 0, L_2: 50000, U_2: 0
+
+Warmup Net1
+
+Warmup Net2
+
+Test Epoch: 2, Accuracy: 78.990, Precision: 79.323, Recall: 78.990, F1: 78.716, L_1: 50000, U_1: 0, L_2: 50000, U_2: 0
+
+Warmup Net1
+
+Warmup Net2
+
+Test Epoch: 3, Accuracy: 81.710, Precision: 82.059, Recall: 81.710, F1: 81.626, L_1: 50000, U_1: 0, L_2: 50000, U_2: 0
+
+Warmup Net1
+
+Warmup Net2
+
+Test Epoch: 4, Accuracy: 83.130, Precision: 83.470, Recall: 83.130, F1: 83.171, L_1: 50000, U_1: 0, L_2: 50000, U_2: 0
+
+Warmup Net1
+
+Warmup Net2
+
+Test Epoch: 5, Accuracy: 83.140, Precision: 84.044, Recall: 83.140, F1: 83.075, L_1: 50000, U_1: 0, L_2: 50000, U_2: 0
+
+Warmup Net1
+
+Warmup Net2
+
+Test Epoch: 6, Accuracy: 84.860, Precision: 85.054, Recall: 84.860, F1: 84.652, L_1: 50000, U_1: 0, L_2: 50000, U_2: 0
+
+Warmup Net1
+
+Warmup Net2
+
+Test Epoch: 7, Accuracy: 84.580, Precision: 85.679, Recall: 84.580, F1: 84.716, L_1: 50000, U_1: 0, L_2: 50000, U_2: 0
+
+Warmup Net1
+
+Warmup Net2
+
+Test Epoch: 8, Accuracy: 86.270, Precision: 86.951, Recall: 86.270, F1: 86.261, L_1: 50000, U_1: 0, L_2: 50000, U_2: 0
+
+Warmup Net1
+
+Warmup Net2
+
+Test Epoch: 9, Accuracy: 87.600, Precision: 88.021, Recall: 87.600, F1: 87.671, L_1: 50000, U_1: 0, L_2: 50000, U_2: 0
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 10, Accuracy: 87.990, Precision: 87.994, Recall: 87.990, F1: 87.861, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 11, Accuracy: 88.620, Precision: 88.520, Recall: 88.620, F1: 88.523, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 12, Accuracy: 88.280, Precision: 88.253, Recall: 88.280, F1: 88.119, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 13, Accuracy: 89.120, Precision: 89.047, Recall: 89.120, F1: 89.007, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 14, Accuracy: 89.000, Precision: 88.921, Recall: 89.000, F1: 88.888, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 15, Accuracy: 89.110, Precision: 89.052, Recall: 89.110, F1: 88.976, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 16, Accuracy: 89.390, Precision: 89.398, Recall: 89.390, F1: 89.356, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 17, Accuracy: 89.020, Precision: 89.000, Recall: 89.020, F1: 88.903, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 18, Accuracy: 89.960, Precision: 89.943, Recall: 89.960, F1: 89.817, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 19, Accuracy: 89.420, Precision: 89.492, Recall: 89.420, F1: 89.209, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 20, Accuracy: 89.950, Precision: 89.953, Recall: 89.950, F1: 89.832, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 21, Accuracy: 90.290, Precision: 90.289, Recall: 90.290, F1: 90.233, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 22, Accuracy: 90.380, Precision: 90.384, Recall: 90.380, F1: 90.239, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 23, Accuracy: 90.400, Precision: 90.341, Recall: 90.400, F1: 90.336, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 24, Accuracy: 90.090, Precision: 90.115, Recall: 90.090, F1: 89.977, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 25, Accuracy: 90.480, Precision: 90.402, Recall: 90.480, F1: 90.378, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 26, Accuracy: 90.730, Precision: 90.756, Recall: 90.730, F1: 90.695, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 27, Accuracy: 91.200, Precision: 91.158, Recall: 91.200, F1: 91.150, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 28, Accuracy: 91.260, Precision: 91.235, Recall: 91.260, F1: 91.200, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 29, Accuracy: 91.000, Precision: 91.005, Recall: 91.000, F1: 90.946, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 30, Accuracy: 90.930, Precision: 90.969, Recall: 90.930, F1: 90.853, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 31, Accuracy: 91.080, Precision: 91.073, Recall: 91.080, F1: 91.001, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 32, Accuracy: 90.840, Precision: 90.874, Recall: 90.840, F1: 90.713, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 33, Accuracy: 91.570, Precision: 91.541, Recall: 91.570, F1: 91.486, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 34, Accuracy: 91.810, Precision: 91.812, Recall: 91.810, F1: 91.727, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 35, Accuracy: 92.060, Precision: 92.029, Recall: 92.060, F1: 92.007, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 36, Accuracy: 91.980, Precision: 91.985, Recall: 91.980, F1: 91.929, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 37, Accuracy: 91.420, Precision: 91.415, Recall: 91.420, F1: 91.315, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 38, Accuracy: 91.920, Precision: 91.896, Recall: 91.920, F1: 91.860, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 39, Accuracy: 91.960, Precision: 92.127, Recall: 91.960, F1: 91.912, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 40, Accuracy: 92.250, Precision: 92.248, Recall: 92.250, F1: 92.180, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 41, Accuracy: 91.660, Precision: 91.759, Recall: 91.660, F1: 91.586, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 42, Accuracy: 92.240, Precision: 92.247, Recall: 92.240, F1: 92.187, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 43, Accuracy: 92.230, Precision: 92.196, Recall: 92.230, F1: 92.159, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 44, Accuracy: 91.880, Precision: 91.931, Recall: 91.880, F1: 91.843, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 45, Accuracy: 92.110, Precision: 92.182, Recall: 92.110, F1: 92.024, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 46, Accuracy: 92.610, Precision: 92.673, Recall: 92.610, F1: 92.550, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 47, Accuracy: 92.390, Precision: 92.348, Recall: 92.390, F1: 92.312, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 48, Accuracy: 92.760, Precision: 92.775, Recall: 92.760, F1: 92.722, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 49, Accuracy: 92.400, Precision: 92.391, Recall: 92.400, F1: 92.347, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 50, Accuracy: 92.690, Precision: 92.760, Recall: 92.690, F1: 92.638, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 51, Accuracy: 92.670, Precision: 92.700, Recall: 92.670, F1: 92.666, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 52, Accuracy: 92.990, Precision: 93.009, Recall: 92.990, F1: 92.968, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 53, Accuracy: 92.750, Precision: 92.731, Recall: 92.750, F1: 92.707, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 54, Accuracy: 92.610, Precision: 92.635, Recall: 92.610, F1: 92.568, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 55, Accuracy: 92.680, Precision: 92.642, Recall: 92.680, F1: 92.619, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 56, Accuracy: 92.720, Precision: 92.780, Recall: 92.720, F1: 92.729, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 57, Accuracy: 92.860, Precision: 92.867, Recall: 92.860, F1: 92.799, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 58, Accuracy: 92.770, Precision: 92.809, Recall: 92.770, F1: 92.708, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 59, Accuracy: 92.860, Precision: 92.865, Recall: 92.860, F1: 92.827, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 60, Accuracy: 93.250, Precision: 93.246, Recall: 93.250, F1: 93.221, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 61, Accuracy: 93.120, Precision: 93.148, Recall: 93.120, F1: 93.084, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 62, Accuracy: 92.860, Precision: 92.914, Recall: 92.860, F1: 92.829, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 63, Accuracy: 93.190, Precision: 93.251, Recall: 93.190, F1: 93.167, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 64, Accuracy: 93.180, Precision: 93.164, Recall: 93.180, F1: 93.138, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 65, Accuracy: 93.230, Precision: 93.279, Recall: 93.230, F1: 93.175, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 66, Accuracy: 93.310, Precision: 93.315, Recall: 93.310, F1: 93.274, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 67, Accuracy: 92.820, Precision: 92.859, Recall: 92.820, F1: 92.797, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 68, Accuracy: 92.920, Precision: 92.891, Recall: 92.920, F1: 92.880, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 69, Accuracy: 92.950, Precision: 92.935, Recall: 92.950, F1: 92.897, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 70, Accuracy: 93.170, Precision: 93.153, Recall: 93.170, F1: 93.128, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 71, Accuracy: 93.490, Precision: 93.571, Recall: 93.490, F1: 93.486, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 72, Accuracy: 92.940, Precision: 92.938, Recall: 92.940, F1: 92.875, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 73, Accuracy: 93.200, Precision: 93.219, Recall: 93.200, F1: 93.182, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 74, Accuracy: 93.370, Precision: 93.400, Recall: 93.370, F1: 93.356, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 75, Accuracy: 93.220, Precision: 93.205, Recall: 93.220, F1: 93.185, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 76, Accuracy: 93.130, Precision: 93.173, Recall: 93.130, F1: 93.094, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 77, Accuracy: 93.160, Precision: 93.155, Recall: 93.160, F1: 93.130, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 78, Accuracy: 92.630, Precision: 92.588, Recall: 92.630, F1: 92.583, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 79, Accuracy: 93.060, Precision: 93.089, Recall: 93.060, F1: 93.005, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 80, Accuracy: 93.390, Precision: 93.369, Recall: 93.390, F1: 93.346, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 81, Accuracy: 93.470, Precision: 93.453, Recall: 93.470, F1: 93.449, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 82, Accuracy: 93.280, Precision: 93.278, Recall: 93.280, F1: 93.245, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 83, Accuracy: 93.310, Precision: 93.407, Recall: 93.310, F1: 93.273, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 84, Accuracy: 93.210, Precision: 93.232, Recall: 93.210, F1: 93.167, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 85, Accuracy: 93.620, Precision: 93.625, Recall: 93.620, F1: 93.592, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 86, Accuracy: 93.210, Precision: 93.186, Recall: 93.210, F1: 93.172, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 87, Accuracy: 93.460, Precision: 93.445, Recall: 93.460, F1: 93.432, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 88, Accuracy: 93.250, Precision: 93.265, Recall: 93.250, F1: 93.215, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 89, Accuracy: 93.760, Precision: 93.758, Recall: 93.760, F1: 93.737, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 90, Accuracy: 93.230, Precision: 93.234, Recall: 93.230, F1: 93.175, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 91, Accuracy: 93.120, Precision: 93.122, Recall: 93.120, F1: 93.068, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 92, Accuracy: 93.280, Precision: 93.281, Recall: 93.280, F1: 93.252, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 93, Accuracy: 93.450, Precision: 93.550, Recall: 93.450, F1: 93.380, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 94, Accuracy: 93.350, Precision: 93.351, Recall: 93.350, F1: 93.302, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 95, Accuracy: 93.390, Precision: 93.429, Recall: 93.390, F1: 93.359, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 96, Accuracy: 93.670, Precision: 93.703, Recall: 93.670, F1: 93.660, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 97, Accuracy: 93.950, Precision: 94.006, Recall: 93.950, F1: 93.948, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 98, Accuracy: 93.530, Precision: 93.588, Recall: 93.530, F1: 93.535, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 99, Accuracy: 93.620, Precision: 93.635, Recall: 93.620, F1: 93.619, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 100, Accuracy: 93.460, Precision: 93.434, Recall: 93.460, F1: 93.417, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 101, Accuracy: 93.330, Precision: 93.277, Recall: 93.330, F1: 93.275, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 102, Accuracy: 93.540, Precision: 93.533, Recall: 93.540, F1: 93.519, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 103, Accuracy: 93.730, Precision: 93.740, Recall: 93.730, F1: 93.706, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 104, Accuracy: 93.640, Precision: 93.623, Recall: 93.640, F1: 93.611, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 105, Accuracy: 93.500, Precision: 93.565, Recall: 93.500, F1: 93.497, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 106, Accuracy: 93.330, Precision: 93.391, Recall: 93.330, F1: 93.291, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 107, Accuracy: 93.620, Precision: 93.630, Recall: 93.620, F1: 93.606, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 108, Accuracy: 93.940, Precision: 93.959, Recall: 93.940, F1: 93.937, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 109, Accuracy: 93.960, Precision: 93.979, Recall: 93.960, F1: 93.959, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 110, Accuracy: 93.990, Precision: 93.998, Recall: 93.990, F1: 93.952, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 111, Accuracy: 93.380, Precision: 93.389, Recall: 93.380, F1: 93.347, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 112, Accuracy: 93.760, Precision: 93.781, Recall: 93.760, F1: 93.737, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 113, Accuracy: 93.710, Precision: 93.701, Recall: 93.710, F1: 93.680, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 114, Accuracy: 94.010, Precision: 94.043, Recall: 94.010, F1: 93.996, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 115, Accuracy: 93.920, Precision: 93.955, Recall: 93.920, F1: 93.912, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 116, Accuracy: 93.930, Precision: 93.986, Recall: 93.930, F1: 93.912, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 117, Accuracy: 93.300, Precision: 93.410, Recall: 93.300, F1: 93.239, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 118, Accuracy: 93.670, Precision: 93.792, Recall: 93.670, F1: 93.625, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 119, Accuracy: 93.570, Precision: 93.592, Recall: 93.570, F1: 93.566, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 120, Accuracy: 93.870, Precision: 93.874, Recall: 93.870, F1: 93.852, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 121, Accuracy: 93.820, Precision: 93.820, Recall: 93.820, F1: 93.795, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 122, Accuracy: 93.810, Precision: 93.834, Recall: 93.810, F1: 93.793, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 123, Accuracy: 93.880, Precision: 93.899, Recall: 93.880, F1: 93.862, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 124, Accuracy: 93.550, Precision: 93.548, Recall: 93.550, F1: 93.511, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 125, Accuracy: 93.810, Precision: 93.859, Recall: 93.810, F1: 93.794, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 126, Accuracy: 93.830, Precision: 93.875, Recall: 93.830, F1: 93.793, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 127, Accuracy: 93.850, Precision: 93.912, Recall: 93.850, F1: 93.831, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 128, Accuracy: 93.910, Precision: 93.898, Recall: 93.910, F1: 93.892, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 129, Accuracy: 93.940, Precision: 93.965, Recall: 93.940, F1: 93.933, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 130, Accuracy: 93.740, Precision: 93.776, Recall: 93.740, F1: 93.683, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 131, Accuracy: 93.820, Precision: 93.814, Recall: 93.820, F1: 93.806, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 132, Accuracy: 93.740, Precision: 93.733, Recall: 93.740, F1: 93.705, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 133, Accuracy: 93.980, Precision: 94.001, Recall: 93.980, F1: 93.956, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 134, Accuracy: 93.900, Precision: 93.908, Recall: 93.900, F1: 93.886, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 135, Accuracy: 93.610, Precision: 93.630, Recall: 93.610, F1: 93.577, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 136, Accuracy: 93.960, Precision: 93.987, Recall: 93.960, F1: 93.947, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 137, Accuracy: 93.860, Precision: 93.894, Recall: 93.860, F1: 93.860, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 138, Accuracy: 93.920, Precision: 94.011, Recall: 93.920, F1: 93.903, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 139, Accuracy: 93.910, Precision: 93.889, Recall: 93.910, F1: 93.876, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 140, Accuracy: 93.870, Precision: 93.905, Recall: 93.870, F1: 93.857, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 141, Accuracy: 94.100, Precision: 94.098, Recall: 94.100, F1: 94.083, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 142, Accuracy: 93.860, Precision: 93.813, Recall: 93.860, F1: 93.821, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 143, Accuracy: 93.710, Precision: 93.700, Recall: 93.710, F1: 93.663, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 144, Accuracy: 94.010, Precision: 94.031, Recall: 94.010, F1: 94.006, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 145, Accuracy: 93.470, Precision: 93.552, Recall: 93.470, F1: 93.470, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 146, Accuracy: 94.320, Precision: 94.305, Recall: 94.320, F1: 94.300, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 147, Accuracy: 94.210, Precision: 94.240, Recall: 94.210, F1: 94.196, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 148, Accuracy: 93.970, Precision: 93.936, Recall: 93.970, F1: 93.936, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 149, Accuracy: 93.770, Precision: 93.777, Recall: 93.770, F1: 93.720, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 150, Accuracy: 94.740, Precision: 94.737, Recall: 94.740, F1: 94.730, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 151, Accuracy: 95.010, Precision: 95.028, Recall: 95.010, F1: 94.990, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 152, Accuracy: 94.940, Precision: 94.967, Recall: 94.940, F1: 94.927, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 153, Accuracy: 95.160, Precision: 95.188, Recall: 95.160, F1: 95.159, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 154, Accuracy: 95.170, Precision: 95.179, Recall: 95.170, F1: 95.148, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 155, Accuracy: 95.250, Precision: 95.255, Recall: 95.250, F1: 95.240, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 156, Accuracy: 95.170, Precision: 95.175, Recall: 95.170, F1: 95.159, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 157, Accuracy: 95.010, Precision: 95.026, Recall: 95.010, F1: 94.997, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 158, Accuracy: 95.400, Precision: 95.432, Recall: 95.400, F1: 95.401, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 159, Accuracy: 95.220, Precision: 95.260, Recall: 95.220, F1: 95.218, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 160, Accuracy: 95.430, Precision: 95.462, Recall: 95.430, F1: 95.436, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 161, Accuracy: 95.180, Precision: 95.192, Recall: 95.180, F1: 95.162, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 162, Accuracy: 95.450, Precision: 95.467, Recall: 95.450, F1: 95.437, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 163, Accuracy: 95.160, Precision: 95.185, Recall: 95.160, F1: 95.148, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 164, Accuracy: 95.410, Precision: 95.445, Recall: 95.410, F1: 95.405, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 165, Accuracy: 95.410, Precision: 95.408, Recall: 95.410, F1: 95.397, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 166, Accuracy: 95.360, Precision: 95.383, Recall: 95.360, F1: 95.357, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 167, Accuracy: 95.560, Precision: 95.577, Recall: 95.560, F1: 95.556, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 168, Accuracy: 95.180, Precision: 95.195, Recall: 95.180, F1: 95.166, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 169, Accuracy: 95.370, Precision: 95.405, Recall: 95.370, F1: 95.365, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 170, Accuracy: 95.240, Precision: 95.293, Recall: 95.240, F1: 95.222, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 171, Accuracy: 95.450, Precision: 95.490, Recall: 95.450, F1: 95.436, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 172, Accuracy: 95.250, Precision: 95.280, Recall: 95.250, F1: 95.244, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 173, Accuracy: 95.400, Precision: 95.425, Recall: 95.400, F1: 95.391, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 174, Accuracy: 95.430, Precision: 95.452, Recall: 95.430, F1: 95.419, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 175, Accuracy: 95.350, Precision: 95.356, Recall: 95.350, F1: 95.343, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 176, Accuracy: 95.280, Precision: 95.312, Recall: 95.280, F1: 95.274, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 177, Accuracy: 95.330, Precision: 95.340, Recall: 95.330, F1: 95.320, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 178, Accuracy: 95.440, Precision: 95.480, Recall: 95.440, F1: 95.437, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 179, Accuracy: 95.470, Precision: 95.497, Recall: 95.470, F1: 95.468, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 180, Accuracy: 95.350, Precision: 95.387, Recall: 95.350, F1: 95.334, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 181, Accuracy: 95.650, Precision: 95.671, Recall: 95.650, F1: 95.648, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 182, Accuracy: 95.490, Precision: 95.537, Recall: 95.490, F1: 95.488, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 183, Accuracy: 95.420, Precision: 95.420, Recall: 95.420, F1: 95.408, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 184, Accuracy: 95.440, Precision: 95.491, Recall: 95.440, F1: 95.426, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 185, Accuracy: 95.390, Precision: 95.454, Recall: 95.390, F1: 95.383, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 186, Accuracy: 95.300, Precision: 95.320, Recall: 95.300, F1: 95.282, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 187, Accuracy: 95.320, Precision: 95.366, Recall: 95.320, F1: 95.315, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 188, Accuracy: 95.490, Precision: 95.516, Recall: 95.490, F1: 95.487, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 189, Accuracy: 95.390, Precision: 95.407, Recall: 95.390, F1: 95.381, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 190, Accuracy: 95.320, Precision: 95.342, Recall: 95.320, F1: 95.301, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 191, Accuracy: 95.480, Precision: 95.522, Recall: 95.480, F1: 95.470, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 192, Accuracy: 95.320, Precision: 95.344, Recall: 95.320, F1: 95.308, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 193, Accuracy: 95.300, Precision: 95.377, Recall: 95.300, F1: 95.301, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 194, Accuracy: 95.630, Precision: 95.636, Recall: 95.630, F1: 95.619, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 195, Accuracy: 95.340, Precision: 95.365, Recall: 95.340, F1: 95.334, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 196, Accuracy: 95.280, Precision: 95.304, Recall: 95.280, F1: 95.267, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 197, Accuracy: 95.290, Precision: 95.302, Recall: 95.290, F1: 95.274, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 198, Accuracy: 95.380, Precision: 95.405, Recall: 95.380, F1: 95.367, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 199, Accuracy: 95.390, Precision: 95.423, Recall: 95.390, F1: 95.375, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44050
+unlabeled data has a size of 5950
+
+Train Net2
+labeled data has a size of 43760
+unlabeled data has a size of 6240
+
+Test Epoch: 200, Accuracy: 95.400, Precision: 95.403, Recall: 95.400, F1: 95.389, L_1: 44050, U_1: 5950, L_2: 43760, U_2: 6240
+
+Train Net1
+labeled data has a size of 44072
+unlabeled data has a size of 5928
+
+Train Net2
+labeled data has a size of 44138
+unlabeled data has a size of 5862
+
+Test Epoch: 201, Accuracy: 95.560, Precision: 95.575, Recall: 95.560, F1: 95.545, L_1: 44072, U_1: 5928, L_2: 44138, U_2: 5862
+
+Train Net1
+labeled data has a size of 44075
+unlabeled data has a size of 5925
+
+Train Net2
+labeled data has a size of 44119
+unlabeled data has a size of 5881
+
+Test Epoch: 202, Accuracy: 95.370, Precision: 95.425, Recall: 95.370, F1: 95.356, L_1: 44075, U_1: 5925, L_2: 44119, U_2: 5881
+
+Train Net1
+labeled data has a size of 44069
+unlabeled data has a size of 5931
+
+Train Net2
+labeled data has a size of 44111
+unlabeled data has a size of 5889
+
+Test Epoch: 203, Accuracy: 95.610, Precision: 95.630, Recall: 95.610, F1: 95.606, L_1: 44069, U_1: 5931, L_2: 44111, U_2: 5889
+
+Train Net1
+labeled data has a size of 44097
+unlabeled data has a size of 5903
+
+Train Net2
+labeled data has a size of 44171
+unlabeled data has a size of 5829
+
+Test Epoch: 204, Accuracy: 95.710, Precision: 95.713, Recall: 95.710, F1: 95.702, L_1: 44097, U_1: 5903, L_2: 44171, U_2: 5829
+
+Train Net1
+labeled data has a size of 44080
+unlabeled data has a size of 5920
+
+Train Net2
+labeled data has a size of 44117
+unlabeled data has a size of 5883
+
+Test Epoch: 205, Accuracy: 95.490, Precision: 95.514, Recall: 95.490, F1: 95.483, L_1: 44080, U_1: 5920, L_2: 44117, U_2: 5883
+
+Train Net1
+labeled data has a size of 44081
+unlabeled data has a size of 5919
+
+Train Net2
+labeled data has a size of 44149
+unlabeled data has a size of 5851
+
+Test Epoch: 206, Accuracy: 95.550, Precision: 95.559, Recall: 95.550, F1: 95.540, L_1: 44081, U_1: 5919, L_2: 44149, U_2: 5851
+
+Train Net1
+labeled data has a size of 44105
+unlabeled data has a size of 5895
+
+Train Net2
+labeled data has a size of 44148
+unlabeled data has a size of 5852
+
+Test Epoch: 207, Accuracy: 95.580, Precision: 95.594, Recall: 95.580, F1: 95.575, L_1: 44105, U_1: 5895, L_2: 44148, U_2: 5852
+
+Train Net1
+labeled data has a size of 44097
+unlabeled data has a size of 5903
+
+Train Net2
+labeled data has a size of 44099
+unlabeled data has a size of 5901
+
+Test Epoch: 208, Accuracy: 95.210, Precision: 95.237, Recall: 95.210, F1: 95.196, L_1: 44097, U_1: 5903, L_2: 44099, U_2: 5901
+
+Train Net1
+labeled data has a size of 44085
+unlabeled data has a size of 5915
+
+Train Net2
+labeled data has a size of 44171
+unlabeled data has a size of 5829
+
+Test Epoch: 209, Accuracy: 95.370, Precision: 95.399, Recall: 95.370, F1: 95.362, L_1: 44085, U_1: 5915, L_2: 44171, U_2: 5829
+
+Train Net1
+labeled data has a size of 44113
+unlabeled data has a size of 5887
+
+Train Net2
+labeled data has a size of 44155
+unlabeled data has a size of 5845
+
+Test Epoch: 210, Accuracy: 95.350, Precision: 95.383, Recall: 95.350, F1: 95.338, L_1: 44113, U_1: 5887, L_2: 44155, U_2: 5845
+
+Train Net1
+labeled data has a size of 44094
+unlabeled data has a size of 5906
+
+Train Net2
+labeled data has a size of 44163
+unlabeled data has a size of 5837
+
+Test Epoch: 211, Accuracy: 95.440, Precision: 95.491, Recall: 95.440, F1: 95.433, L_1: 44094, U_1: 5906, L_2: 44163, U_2: 5837
+
+Train Net1
+labeled data has a size of 44070
+unlabeled data has a size of 5930
+
+Train Net2
+labeled data has a size of 44160
+unlabeled data has a size of 5840
+
+Test Epoch: 212, Accuracy: 95.510, Precision: 95.558, Recall: 95.510, F1: 95.510, L_1: 44070, U_1: 5930, L_2: 44160, U_2: 5840
+
+Train Net1
+labeled data has a size of 44131
+unlabeled data has a size of 5869
+
+Train Net2
+labeled data has a size of 44159
+unlabeled data has a size of 5841
+
+Test Epoch: 213, Accuracy: 95.560, Precision: 95.579, Recall: 95.560, F1: 95.552, L_1: 44131, U_1: 5869, L_2: 44159, U_2: 5841
+
+Train Net1
+labeled data has a size of 44133
+unlabeled data has a size of 5867
+
+Train Net2
+labeled data has a size of 44170
+unlabeled data has a size of 5830
+
+Test Epoch: 214, Accuracy: 95.430, Precision: 95.440, Recall: 95.430, F1: 95.411, L_1: 44133, U_1: 5867, L_2: 44170, U_2: 5830
+
+Train Net1
+labeled data has a size of 44089
+unlabeled data has a size of 5911
+
+Train Net2
+labeled data has a size of 44156
+unlabeled data has a size of 5844
+
+Test Epoch: 215, Accuracy: 95.570, Precision: 95.595, Recall: 95.570, F1: 95.567, L_1: 44089, U_1: 5911, L_2: 44156, U_2: 5844
+
+Train Net1
+labeled data has a size of 44141
+unlabeled data has a size of 5859
+
+Train Net2
+labeled data has a size of 44151
+unlabeled data has a size of 5849
+
+Test Epoch: 216, Accuracy: 95.500, Precision: 95.540, Recall: 95.500, F1: 95.489, L_1: 44141, U_1: 5859, L_2: 44151, U_2: 5849
+
+Train Net1
+labeled data has a size of 44146
+unlabeled data has a size of 5854
+
+Train Net2
+labeled data has a size of 44166
+unlabeled data has a size of 5834
+
+Test Epoch: 217, Accuracy: 95.310, Precision: 95.358, Recall: 95.310, F1: 95.297, L_1: 44146, U_1: 5854, L_2: 44166, U_2: 5834
+
+Train Net1
+labeled data has a size of 44111
+unlabeled data has a size of 5889
+
+Train Net2
+labeled data has a size of 44192
+unlabeled data has a size of 5808
+
+Test Epoch: 218, Accuracy: 95.580, Precision: 95.628, Recall: 95.580, F1: 95.581, L_1: 44111, U_1: 5889, L_2: 44192, U_2: 5808
+
+Train Net1
+labeled data has a size of 44171
+unlabeled data has a size of 5829
+
+Train Net2
+labeled data has a size of 44185
+unlabeled data has a size of 5815
+
+Test Epoch: 219, Accuracy: 95.630, Precision: 95.688, Recall: 95.630, F1: 95.630, L_1: 44171, U_1: 5829, L_2: 44185, U_2: 5815
+
+Train Net1
+labeled data has a size of 44169
+unlabeled data has a size of 5831
+
+Train Net2
+labeled data has a size of 44126
+unlabeled data has a size of 5874
+
+Test Epoch: 220, Accuracy: 95.560, Precision: 95.582, Recall: 95.560, F1: 95.555, L_1: 44169, U_1: 5831, L_2: 44126, U_2: 5874
+
+Train Net1
+labeled data has a size of 44154
+unlabeled data has a size of 5846
+
+Train Net2
+labeled data has a size of 44120
+unlabeled data has a size of 5880
+
+Test Epoch: 221, Accuracy: 95.510, Precision: 95.541, Recall: 95.510, F1: 95.507, L_1: 44154, U_1: 5846, L_2: 44120, U_2: 5880
+
+Train Net1
+labeled data has a size of 44130
+unlabeled data has a size of 5870
+
+Train Net2
+labeled data has a size of 44149
+unlabeled data has a size of 5851
+
+Test Epoch: 222, Accuracy: 95.680, Precision: 95.726, Recall: 95.680, F1: 95.683, L_1: 44130, U_1: 5870, L_2: 44149, U_2: 5851
+
+Train Net1
+labeled data has a size of 44155
+unlabeled data has a size of 5845
+
+Train Net2
+labeled data has a size of 44199
+unlabeled data has a size of 5801
+
+Test Epoch: 223, Accuracy: 95.660, Precision: 95.696, Recall: 95.660, F1: 95.662, L_1: 44155, U_1: 5845, L_2: 44199, U_2: 5801
+
+Train Net1
+labeled data has a size of 44158
+unlabeled data has a size of 5842
+
+Train Net2
+labeled data has a size of 44199
+unlabeled data has a size of 5801
+
+Test Epoch: 224, Accuracy: 95.370, Precision: 95.391, Recall: 95.370, F1: 95.363, L_1: 44158, U_1: 5842, L_2: 44199, U_2: 5801
+
+Train Net1
+labeled data has a size of 44151
+unlabeled data has a size of 5849
+
+Train Net2
+labeled data has a size of 44181
+unlabeled data has a size of 5819
+
+Test Epoch: 225, Accuracy: 95.360, Precision: 95.393, Recall: 95.360, F1: 95.354, L_1: 44151, U_1: 5849, L_2: 44181, U_2: 5819
+
+Train Net1
+labeled data has a size of 44167
+unlabeled data has a size of 5833
+
+Train Net2
+labeled data has a size of 44172
+unlabeled data has a size of 5828
+
+Test Epoch: 226, Accuracy: 95.500, Precision: 95.504, Recall: 95.500, F1: 95.488, L_1: 44167, U_1: 5833, L_2: 44172, U_2: 5828
+
+Train Net1
+labeled data has a size of 44118
+unlabeled data has a size of 5882
+
+Train Net2
+labeled data has a size of 44167
+unlabeled data has a size of 5833
+
+Test Epoch: 227, Accuracy: 95.670, Precision: 95.718, Recall: 95.670, F1: 95.670, L_1: 44118, U_1: 5882, L_2: 44167, U_2: 5833
+
+Train Net1
+labeled data has a size of 44168
+unlabeled data has a size of 5832
+
+Train Net2
+labeled data has a size of 44171
+unlabeled data has a size of 5829
+
+Test Epoch: 228, Accuracy: 95.440, Precision: 95.520, Recall: 95.440, F1: 95.449, L_1: 44168, U_1: 5832, L_2: 44171, U_2: 5829
+
+Train Net1
+labeled data has a size of 44175
+unlabeled data has a size of 5825
+
+Train Net2
+labeled data has a size of 44166
+unlabeled data has a size of 5834
+
+Test Epoch: 229, Accuracy: 95.270, Precision: 95.312, Recall: 95.270, F1: 95.264, L_1: 44175, U_1: 5825, L_2: 44166, U_2: 5834
+
+Train Net1
+labeled data has a size of 44121
+unlabeled data has a size of 5879
+
+Train Net2
+labeled data has a size of 44225
+unlabeled data has a size of 5775
+
+Test Epoch: 230, Accuracy: 95.620, Precision: 95.680, Recall: 95.620, F1: 95.608, L_1: 44121, U_1: 5879, L_2: 44225, U_2: 5775
+
+Train Net1
+labeled data has a size of 44172
+unlabeled data has a size of 5828
+
+Train Net2
+labeled data has a size of 44169
+unlabeled data has a size of 5831
+
+Test Epoch: 231, Accuracy: 95.520, Precision: 95.563, Recall: 95.520, F1: 95.513, L_1: 44172, U_1: 5828, L_2: 44169, U_2: 5831
+
+Train Net1
+labeled data has a size of 44144
+unlabeled data has a size of 5856
+
+Train Net2
+labeled data has a size of 44201
+unlabeled data has a size of 5799
+
+Test Epoch: 232, Accuracy: 95.680, Precision: 95.726, Recall: 95.680, F1: 95.681, L_1: 44144, U_1: 5856, L_2: 44201, U_2: 5799
+
+Train Net1
+labeled data has a size of 44195
+unlabeled data has a size of 5805
+
+Train Net2
+labeled data has a size of 44210
+unlabeled data has a size of 5790
+
+Test Epoch: 233, Accuracy: 95.610, Precision: 95.623, Recall: 95.610, F1: 95.601, L_1: 44195, U_1: 5805, L_2: 44210, U_2: 5790
+
+Train Net1
+labeled data has a size of 44196
+unlabeled data has a size of 5804
+
+Train Net2
+labeled data has a size of 44155
+unlabeled data has a size of 5845
+
+Test Epoch: 234, Accuracy: 95.440, Precision: 95.503, Recall: 95.440, F1: 95.436, L_1: 44196, U_1: 5804, L_2: 44155, U_2: 5845
+
+Train Net1
+labeled data has a size of 44169
+unlabeled data has a size of 5831
+
+Train Net2
+labeled data has a size of 44194
+unlabeled data has a size of 5806
+
+Test Epoch: 235, Accuracy: 95.580, Precision: 95.617, Recall: 95.580, F1: 95.572, L_1: 44169, U_1: 5831, L_2: 44194, U_2: 5806
+
+Train Net1
+labeled data has a size of 44159
+unlabeled data has a size of 5841
+
+Train Net2
+labeled data has a size of 44172
+unlabeled data has a size of 5828
+
+Test Epoch: 236, Accuracy: 95.620, Precision: 95.648, Recall: 95.620, F1: 95.615, L_1: 44159, U_1: 5841, L_2: 44172, U_2: 5828
+
+Train Net1
+labeled data has a size of 44149
+unlabeled data has a size of 5851
+
+Train Net2
+labeled data has a size of 44236
+unlabeled data has a size of 5764
+
+Test Epoch: 237, Accuracy: 95.730, Precision: 95.769, Recall: 95.730, F1: 95.728, L_1: 44149, U_1: 5851, L_2: 44236, U_2: 5764
+
+Train Net1
+labeled data has a size of 44192
+unlabeled data has a size of 5808
+
+Train Net2
+labeled data has a size of 44197
+unlabeled data has a size of 5803
+
+Test Epoch: 238, Accuracy: 95.730, Precision: 95.758, Recall: 95.730, F1: 95.724, L_1: 44192, U_1: 5808, L_2: 44197, U_2: 5803
+
+Train Net1
+labeled data has a size of 44211
+unlabeled data has a size of 5789
+
+Train Net2
+labeled data has a size of 44200
+unlabeled data has a size of 5800
+
+Test Epoch: 239, Accuracy: 95.640, Precision: 95.673, Recall: 95.640, F1: 95.638, L_1: 44211, U_1: 5789, L_2: 44200, U_2: 5800
+
+Train Net1
+labeled data has a size of 44214
+unlabeled data has a size of 5786
+
+Train Net2
+labeled data has a size of 44206
+unlabeled data has a size of 5794
+
+Test Epoch: 240, Accuracy: 95.760, Precision: 95.776, Recall: 95.760, F1: 95.757, L_1: 44214, U_1: 5786, L_2: 44206, U_2: 5794
+
+Train Net1
+labeled data has a size of 44188
+unlabeled data has a size of 5812
+
+Train Net2
+labeled data has a size of 44190
+unlabeled data has a size of 5810
+
+Test Epoch: 241, Accuracy: 95.740, Precision: 95.781, Recall: 95.740, F1: 95.737, L_1: 44188, U_1: 5812, L_2: 44190, U_2: 5810
+
+Train Net1
+labeled data has a size of 44190
+unlabeled data has a size of 5810
+
+Train Net2
+labeled data has a size of 44184
+unlabeled data has a size of 5816
+
+Test Epoch: 242, Accuracy: 95.460, Precision: 95.489, Recall: 95.460, F1: 95.449, L_1: 44190, U_1: 5810, L_2: 44184, U_2: 5816
+
+Train Net1
+labeled data has a size of 44190
+unlabeled data has a size of 5810
+
+Train Net2
+labeled data has a size of 44177
+unlabeled data has a size of 5823
+
+Test Epoch: 243, Accuracy: 95.640, Precision: 95.679, Recall: 95.640, F1: 95.631, L_1: 44190, U_1: 5810, L_2: 44177, U_2: 5823
+
+Train Net1
+labeled data has a size of 44202
+unlabeled data has a size of 5798
+
+Train Net2
+labeled data has a size of 44201
+unlabeled data has a size of 5799
+
+Test Epoch: 244, Accuracy: 95.640, Precision: 95.669, Recall: 95.640, F1: 95.635, L_1: 44202, U_1: 5798, L_2: 44201, U_2: 5799
+
+Train Net1
+labeled data has a size of 44198
+unlabeled data has a size of 5802
+
+Train Net2
+labeled data has a size of 44203
+unlabeled data has a size of 5797
+
+Test Epoch: 245, Accuracy: 95.670, Precision: 95.727, Recall: 95.670, F1: 95.660, L_1: 44198, U_1: 5802, L_2: 44203, U_2: 5797
+
+Train Net1
+labeled data has a size of 44194
+unlabeled data has a size of 5806
+
+Train Net2
+labeled data has a size of 44205
+unlabeled data has a size of 5795
+
+Test Epoch: 246, Accuracy: 95.580, Precision: 95.643, Recall: 95.580, F1: 95.580, L_1: 44194, U_1: 5806, L_2: 44205, U_2: 5795
+
+Train Net1
+labeled data has a size of 44177
+unlabeled data has a size of 5823
+
+Train Net2
+labeled data has a size of 44201
+unlabeled data has a size of 5799
+
+Test Epoch: 247, Accuracy: 95.510, Precision: 95.564, Recall: 95.510, F1: 95.502, L_1: 44177, U_1: 5823, L_2: 44201, U_2: 5799
+
+Train Net1
+labeled data has a size of 44196
+unlabeled data has a size of 5804
+
+Train Net2
+labeled data has a size of 44211
+unlabeled data has a size of 5789
+
+Test Epoch: 248, Accuracy: 95.710, Precision: 95.758, Recall: 95.710, F1: 95.708, L_1: 44196, U_1: 5804, L_2: 44211, U_2: 5789
+
+Train Net1
+labeled data has a size of 44219
+unlabeled data has a size of 5781
+
+Train Net2
+labeled data has a size of 44195
+unlabeled data has a size of 5805
+
+Test Epoch: 249, Accuracy: 95.630, Precision: 95.657, Recall: 95.630, F1: 95.622, L_1: 44219, U_1: 5781, L_2: 44195, U_2: 5805
+
+Train Net1
+labeled data has a size of 44199
+unlabeled data has a size of 5801
+
+Train Net2
+labeled data has a size of 44236
+unlabeled data has a size of 5764
+
+Test Epoch: 250, Accuracy: 95.620, Precision: 95.641, Recall: 95.620, F1: 95.616, L_1: 44199, U_1: 5801, L_2: 44236, U_2: 5764
+
+Train Net1
+labeled data has a size of 44189
+unlabeled data has a size of 5811
+
+Train Net2
+labeled data has a size of 44216
+unlabeled data has a size of 5784
+
+Test Epoch: 251, Accuracy: 95.700, Precision: 95.720, Recall: 95.700, F1: 95.693, L_1: 44189, U_1: 5811, L_2: 44216, U_2: 5784
+
+Train Net1
+labeled data has a size of 44214
+unlabeled data has a size of 5786
+
+Train Net2
+labeled data has a size of 44213
+unlabeled data has a size of 5787
+
+Test Epoch: 252, Accuracy: 95.640, Precision: 95.681, Recall: 95.640, F1: 95.639, L_1: 44214, U_1: 5786, L_2: 44213, U_2: 5787
+
+Train Net1
+labeled data has a size of 44217
+unlabeled data has a size of 5783
+
+Train Net2
+labeled data has a size of 44193
+unlabeled data has a size of 5807
+
+Test Epoch: 253, Accuracy: 95.820, Precision: 95.850, Recall: 95.820, F1: 95.822, L_1: 44217, U_1: 5783, L_2: 44193, U_2: 5807
+
+Train Net1
+labeled data has a size of 44210
+unlabeled data has a size of 5790
+
+Train Net2
+labeled data has a size of 44236
+unlabeled data has a size of 5764
+
+Test Epoch: 254, Accuracy: 95.690, Precision: 95.703, Recall: 95.690, F1: 95.681, L_1: 44210, U_1: 5790, L_2: 44236, U_2: 5764
+
+Train Net1
+labeled data has a size of 44209
+unlabeled data has a size of 5791
+
+Train Net2
+labeled data has a size of 44197
+unlabeled data has a size of 5803
+
+Test Epoch: 255, Accuracy: 95.840, Precision: 95.887, Recall: 95.840, F1: 95.841, L_1: 44209, U_1: 5791, L_2: 44197, U_2: 5803
+
+Train Net1
+labeled data has a size of 44232
+unlabeled data has a size of 5768
+
+Train Net2
+labeled data has a size of 44245
+unlabeled data has a size of 5755
+
+Test Epoch: 256, Accuracy: 95.670, Precision: 95.689, Recall: 95.670, F1: 95.657, L_1: 44232, U_1: 5768, L_2: 44245, U_2: 5755
+
+Train Net1
+labeled data has a size of 44209
+unlabeled data has a size of 5791
+
+Train Net2
+labeled data has a size of 44227
+unlabeled data has a size of 5773
+
+Test Epoch: 257, Accuracy: 95.740, Precision: 95.800, Recall: 95.740, F1: 95.741, L_1: 44209, U_1: 5791, L_2: 44227, U_2: 5773
+
+Train Net1
+labeled data has a size of 44224
+unlabeled data has a size of 5776
+
+Train Net2
+labeled data has a size of 44200
+unlabeled data has a size of 5800
+
+Test Epoch: 258, Accuracy: 95.800, Precision: 95.828, Recall: 95.800, F1: 95.794, L_1: 44224, U_1: 5776, L_2: 44200, U_2: 5800
+
+Train Net1
+labeled data has a size of 44206
+unlabeled data has a size of 5794
+
+Train Net2
+labeled data has a size of 44201
+unlabeled data has a size of 5799
+
+Test Epoch: 259, Accuracy: 95.650, Precision: 95.688, Recall: 95.650, F1: 95.648, L_1: 44206, U_1: 5794, L_2: 44201, U_2: 5799
+
+Train Net1
+labeled data has a size of 44214
+unlabeled data has a size of 5786
+
+Train Net2
+labeled data has a size of 44224
+unlabeled data has a size of 5776
+
+Test Epoch: 260, Accuracy: 95.720, Precision: 95.750, Recall: 95.720, F1: 95.719, L_1: 44214, U_1: 5786, L_2: 44224, U_2: 5776
+
+Train Net1
+labeled data has a size of 44236
+unlabeled data has a size of 5764
+
+Train Net2
+labeled data has a size of 44226
+unlabeled data has a size of 5774
+
+Test Epoch: 261, Accuracy: 95.850, Precision: 95.881, Recall: 95.850, F1: 95.843, L_1: 44236, U_1: 5764, L_2: 44226, U_2: 5774
+
+Train Net1
+labeled data has a size of 44213
+unlabeled data has a size of 5787
+
+Train Net2
+labeled data has a size of 44242
+unlabeled data has a size of 5758
+
+Test Epoch: 262, Accuracy: 95.720, Precision: 95.754, Recall: 95.720, F1: 95.717, L_1: 44213, U_1: 5787, L_2: 44242, U_2: 5758
+
+Train Net1
+labeled data has a size of 44224
+unlabeled data has a size of 5776
+
+Train Net2
+labeled data has a size of 44231
+unlabeled data has a size of 5769
+
+Test Epoch: 263, Accuracy: 95.750, Precision: 95.771, Recall: 95.750, F1: 95.742, L_1: 44224, U_1: 5776, L_2: 44231, U_2: 5769
+
+Train Net1
+labeled data has a size of 44241
+unlabeled data has a size of 5759
+
+Train Net2
+labeled data has a size of 44231
+unlabeled data has a size of 5769
+
+Test Epoch: 264, Accuracy: 95.650, Precision: 95.673, Recall: 95.650, F1: 95.642, L_1: 44241, U_1: 5759, L_2: 44231, U_2: 5769
+
+Train Net1
+labeled data has a size of 44217
+unlabeled data has a size of 5783
+
+Train Net2
+labeled data has a size of 44204
+unlabeled data has a size of 5796
+
+Test Epoch: 265, Accuracy: 95.390, Precision: 95.460, Recall: 95.390, F1: 95.389, L_1: 44217, U_1: 5783, L_2: 44204, U_2: 5796
+
+Train Net1
+labeled data has a size of 44213
+unlabeled data has a size of 5787
+
+Train Net2
+labeled data has a size of 44244
+unlabeled data has a size of 5756
+
+Test Epoch: 266, Accuracy: 95.620, Precision: 95.659, Recall: 95.620, F1: 95.619, L_1: 44213, U_1: 5787, L_2: 44244, U_2: 5756
+
+Train Net1
+labeled data has a size of 44210
+unlabeled data has a size of 5790
+
+Train Net2
+labeled data has a size of 44223
+unlabeled data has a size of 5777
+
+Test Epoch: 267, Accuracy: 95.590, Precision: 95.632, Recall: 95.590, F1: 95.590, L_1: 44210, U_1: 5790, L_2: 44223, U_2: 5777
+
+Train Net1
+labeled data has a size of 44237
+unlabeled data has a size of 5763
+
+Train Net2
+labeled data has a size of 44209
+unlabeled data has a size of 5791
+
+Test Epoch: 268, Accuracy: 95.650, Precision: 95.685, Recall: 95.650, F1: 95.641, L_1: 44237, U_1: 5763, L_2: 44209, U_2: 5791
+
+Train Net1
+labeled data has a size of 44221
+unlabeled data has a size of 5779
+
+Train Net2
+labeled data has a size of 44224
+unlabeled data has a size of 5776
+
+Test Epoch: 269, Accuracy: 95.750, Precision: 95.789, Recall: 95.750, F1: 95.745, L_1: 44221, U_1: 5779, L_2: 44224, U_2: 5776
+
+Train Net1
+labeled data has a size of 44238
+unlabeled data has a size of 5762
+
+Train Net2
+labeled data has a size of 44212
+unlabeled data has a size of 5788
+
+Test Epoch: 270, Accuracy: 95.530, Precision: 95.574, Recall: 95.530, F1: 95.515, L_1: 44238, U_1: 5762, L_2: 44212, U_2: 5788
+
+Train Net1
+labeled data has a size of 44228
+unlabeled data has a size of 5772
+
+Train Net2
+labeled data has a size of 44205
+unlabeled data has a size of 5795
+
+Test Epoch: 271, Accuracy: 95.670, Precision: 95.709, Recall: 95.670, F1: 95.668, L_1: 44228, U_1: 5772, L_2: 44205, U_2: 5795
+
+Train Net1
+labeled data has a size of 44218
+unlabeled data has a size of 5782
+
+Train Net2
+labeled data has a size of 44230
+unlabeled data has a size of 5770
+
+Test Epoch: 272, Accuracy: 95.560, Precision: 95.573, Recall: 95.560, F1: 95.546, L_1: 44218, U_1: 5782, L_2: 44230, U_2: 5770
+
+Train Net1
+labeled data has a size of 44214
+unlabeled data has a size of 5786
+
+Train Net2
+labeled data has a size of 44238
+unlabeled data has a size of 5762
+
+Test Epoch: 273, Accuracy: 95.650, Precision: 95.687, Recall: 95.650, F1: 95.641, L_1: 44214, U_1: 5786, L_2: 44238, U_2: 5762
+
+Train Net1
+labeled data has a size of 44204
+unlabeled data has a size of 5796
+
+Train Net2
+labeled data has a size of 44184
+unlabeled data has a size of 5816
+
+Test Epoch: 274, Accuracy: 95.590, Precision: 95.635, Recall: 95.590, F1: 95.586, L_1: 44204, U_1: 5796, L_2: 44184, U_2: 5816
+
+Train Net1
+labeled data has a size of 44230
+unlabeled data has a size of 5770
+
+Train Net2
+labeled data has a size of 44242
+unlabeled data has a size of 5758
+
+Test Epoch: 275, Accuracy: 95.660, Precision: 95.704, Recall: 95.660, F1: 95.657, L_1: 44230, U_1: 5770, L_2: 44242, U_2: 5758
+
+Train Net1
+labeled data has a size of 44238
+unlabeled data has a size of 5762
+
+Train Net2
+labeled data has a size of 44232
+unlabeled data has a size of 5768
+
+Test Epoch: 276, Accuracy: 95.760, Precision: 95.831, Recall: 95.760, F1: 95.760, L_1: 44238, U_1: 5762, L_2: 44232, U_2: 5768
+
+Train Net1
+labeled data has a size of 44223
+unlabeled data has a size of 5777
+
+Train Net2
+labeled data has a size of 44246
+unlabeled data has a size of 5754
+
+Test Epoch: 277, Accuracy: 95.840, Precision: 95.857, Recall: 95.840, F1: 95.838, L_1: 44223, U_1: 5777, L_2: 44246, U_2: 5754
+
+Train Net1
+labeled data has a size of 44245
+unlabeled data has a size of 5755
+
+Train Net2
+labeled data has a size of 44236
+unlabeled data has a size of 5764
+
+Test Epoch: 278, Accuracy: 95.840, Precision: 95.888, Recall: 95.840, F1: 95.837, L_1: 44245, U_1: 5755, L_2: 44236, U_2: 5764
+
+Train Net1
+labeled data has a size of 44249
+unlabeled data has a size of 5751
+
+Train Net2
+labeled data has a size of 44264
+unlabeled data has a size of 5736
+
+Test Epoch: 279, Accuracy: 95.560, Precision: 95.602, Recall: 95.560, F1: 95.552, L_1: 44249, U_1: 5751, L_2: 44264, U_2: 5736
+
+Train Net1
+labeled data has a size of 44234
+unlabeled data has a size of 5766
+
+Train Net2
+labeled data has a size of 44263
+unlabeled data has a size of 5737
+
+Test Epoch: 280, Accuracy: 95.680, Precision: 95.711, Recall: 95.680, F1: 95.676, L_1: 44234, U_1: 5766, L_2: 44263, U_2: 5737
+
+Train Net1
+labeled data has a size of 44223
+unlabeled data has a size of 5777
+
+Train Net2
+labeled data has a size of 44228
+unlabeled data has a size of 5772
+
+Test Epoch: 281, Accuracy: 95.540, Precision: 95.583, Recall: 95.540, F1: 95.539, L_1: 44223, U_1: 5777, L_2: 44228, U_2: 5772
+
+Train Net1
+labeled data has a size of 44215
+unlabeled data has a size of 5785
+
+Train Net2
+labeled data has a size of 44264
+unlabeled data has a size of 5736
+
+Test Epoch: 282, Accuracy: 95.800, Precision: 95.831, Recall: 95.800, F1: 95.800, L_1: 44215, U_1: 5785, L_2: 44264, U_2: 5736
+
+Train Net1
+labeled data has a size of 44236
+unlabeled data has a size of 5764
+
+Train Net2
+labeled data has a size of 44250
+unlabeled data has a size of 5750
+
+Test Epoch: 283, Accuracy: 95.670, Precision: 95.709, Recall: 95.670, F1: 95.663, L_1: 44236, U_1: 5764, L_2: 44250, U_2: 5750
+
+Train Net1
+labeled data has a size of 44226
+unlabeled data has a size of 5774
+
+Train Net2
+labeled data has a size of 44251
+unlabeled data has a size of 5749
+
+Test Epoch: 284, Accuracy: 95.600, Precision: 95.655, Recall: 95.600, F1: 95.597, L_1: 44226, U_1: 5774, L_2: 44251, U_2: 5749
+
+Train Net1
+labeled data has a size of 44221
+unlabeled data has a size of 5779
+
+Train Net2
+labeled data has a size of 44223
+unlabeled data has a size of 5777
+
+Test Epoch: 285, Accuracy: 95.670, Precision: 95.722, Recall: 95.670, F1: 95.672, L_1: 44221, U_1: 5779, L_2: 44223, U_2: 5777
+
+Train Net1
+labeled data has a size of 44241
+unlabeled data has a size of 5759
+
+Train Net2
+labeled data has a size of 44244
+unlabeled data has a size of 5756
+
+Test Epoch: 286, Accuracy: 95.680, Precision: 95.702, Recall: 95.680, F1: 95.668, L_1: 44241, U_1: 5759, L_2: 44244, U_2: 5756
+
+Train Net1
+labeled data has a size of 44225
+unlabeled data has a size of 5775
+
+Train Net2
+labeled data has a size of 44245
+unlabeled data has a size of 5755
+
+Test Epoch: 287, Accuracy: 95.520, Precision: 95.552, Recall: 95.520, F1: 95.502, L_1: 44225, U_1: 5775, L_2: 44245, U_2: 5755
+
+Train Net1
+labeled data has a size of 44232
+unlabeled data has a size of 5768
+
+Train Net2
+labeled data has a size of 44244
+unlabeled data has a size of 5756
+
+Test Epoch: 288, Accuracy: 95.620, Precision: 95.661, Recall: 95.620, F1: 95.617, L_1: 44232, U_1: 5768, L_2: 44244, U_2: 5756
+
+Train Net1
+labeled data has a size of 44212
+unlabeled data has a size of 5788
+
+Train Net2
+labeled data has a size of 44258
+unlabeled data has a size of 5742
+
+Test Epoch: 289, Accuracy: 95.730, Precision: 95.763, Recall: 95.730, F1: 95.726, L_1: 44212, U_1: 5788, L_2: 44258, U_2: 5742
+
+Train Net1
+labeled data has a size of 44232
+unlabeled data has a size of 5768
+
+Train Net2
+labeled data has a size of 44241
+unlabeled data has a size of 5759
+
+Test Epoch: 290, Accuracy: 95.690, Precision: 95.729, Recall: 95.690, F1: 95.681, L_1: 44232, U_1: 5768, L_2: 44241, U_2: 5759
+
+Train Net1
+labeled data has a size of 44224
+unlabeled data has a size of 5776
+
+Train Net2
+labeled data has a size of 44274
+unlabeled data has a size of 5726
+
+Test Epoch: 291, Accuracy: 95.750, Precision: 95.798, Recall: 95.750, F1: 95.746, L_1: 44224, U_1: 5776, L_2: 44274, U_2: 5726
+
+Train Net1
+labeled data has a size of 44242
+unlabeled data has a size of 5758
+
+Train Net2
+labeled data has a size of 44261
+unlabeled data has a size of 5739
+
+Test Epoch: 292, Accuracy: 95.550, Precision: 95.577, Recall: 95.550, F1: 95.547, L_1: 44242, U_1: 5758, L_2: 44261, U_2: 5739
+
+Train Net1
+labeled data has a size of 44223
+unlabeled data has a size of 5777
+
+Train Net2
+labeled data has a size of 44261
+unlabeled data has a size of 5739
+
+Test Epoch: 293, Accuracy: 95.840, Precision: 95.870, Recall: 95.840, F1: 95.838, L_1: 44223, U_1: 5777, L_2: 44261, U_2: 5739
+
+Train Net1
+labeled data has a size of 44251
+unlabeled data has a size of 5749
+
+Train Net2
+labeled data has a size of 44269
+unlabeled data has a size of 5731
+
+Test Epoch: 294, Accuracy: 95.650, Precision: 95.680, Recall: 95.650, F1: 95.639, L_1: 44251, U_1: 5749, L_2: 44269, U_2: 5731
+
+Train Net1
+labeled data has a size of 44259
+unlabeled data has a size of 5741
+
+Train Net2
+labeled data has a size of 44262
+unlabeled data has a size of 5738
+
+Test Epoch: 295, Accuracy: 95.590, Precision: 95.625, Recall: 95.590, F1: 95.588, L_1: 44259, U_1: 5741, L_2: 44262, U_2: 5738
+
+Train Net1
+labeled data has a size of 44250
+unlabeled data has a size of 5750
+
+Train Net2
+labeled data has a size of 44259
+unlabeled data has a size of 5741
+
+Test Epoch: 296, Accuracy: 95.650, Precision: 95.681, Recall: 95.650, F1: 95.642, L_1: 44250, U_1: 5750, L_2: 44259, U_2: 5741
+
+Train Net1
+labeled data has a size of 44258
+unlabeled data has a size of 5742
+
+Train Net2
+labeled data has a size of 44268
+unlabeled data has a size of 5732
+
+Test Epoch: 297, Accuracy: 95.780, Precision: 95.809, Recall: 95.780, F1: 95.778, L_1: 44258, U_1: 5742, L_2: 44268, U_2: 5732
+
+Train Net1
+labeled data has a size of 44243
+unlabeled data has a size of 5757
+
+Train Net2
+labeled data has a size of 44272
+unlabeled data has a size of 5728
+
+Test Epoch: 298, Accuracy: 95.420, Precision: 95.484, Recall: 95.420, F1: 95.414, L_1: 44243, U_1: 5757, L_2: 44272, U_2: 5728
+
+Train Net1
+labeled data has a size of 44254
+unlabeled data has a size of 5746
+
+Train Net2
+labeled data has a size of 44257
+unlabeled data has a size of 5743
+
+Test Epoch: 299, Accuracy: 95.860, Precision: 95.895, Recall: 95.860, F1: 95.854, L_1: 44254, U_1: 5746, L_2: 44257, U_2: 5743
+

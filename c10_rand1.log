@@ -1,0 +1,3115 @@
+| Building net
+epoch:0
+epoch:1
+epoch:2
+epoch:3
+epoch:4
+epoch:5
+epoch:6
+epoch:7
+epoch:8
+epoch:9
+epoch:10
+epoch:11
+epoch:12
+epoch:13
+epoch:14
+epoch:15
+epoch:16
+epoch:17
+epoch:18
+epoch:19
+epoch:20
+epoch:21
+epoch:22
+epoch:23
+epoch:24
+epoch:25
+epoch:26
+epoch:27
+epoch:28
+epoch:29
+epoch:30
+epoch:31
+epoch:32
+epoch:33
+epoch:34
+epoch:35
+epoch:36
+epoch:37
+epoch:38
+epoch:39
+epoch:40
+epoch:41
+epoch:42
+epoch:43
+epoch:44
+epoch:45
+epoch:46
+epoch:47
+epoch:48
+epoch:49
+epoch:50
+epoch:51
+epoch:52
+epoch:53
+epoch:54
+epoch:55
+epoch:56
+epoch:57
+epoch:58
+epoch:59
+epoch:60
+epoch:61
+epoch:62
+epoch:63
+epoch:64
+epoch:65
+epoch:66
+epoch:67
+epoch:68
+epoch:69
+epoch:70
+epoch:71
+epoch:72
+epoch:73
+epoch:74
+epoch:75
+epoch:76
+epoch:77
+epoch:78
+epoch:79
+epoch:80
+epoch:81
+epoch:82
+epoch:83
+epoch:84
+epoch:85
+epoch:86
+epoch:87
+epoch:88
+epoch:89
+epoch:90
+epoch:91
+epoch:92
+epoch:93
+epoch:94
+epoch:95
+epoch:96
+epoch:97
+epoch:98
+epoch:99
+epoch:100
+epoch:101
+epoch:102
+epoch:103
+epoch:104
+epoch:105
+epoch:106
+epoch:107
+epoch:108
+epoch:109
+epoch:110
+epoch:111
+epoch:112
+epoch:113
+epoch:114
+epoch:115
+epoch:116
+epoch:117
+epoch:118
+epoch:119
+epoch:120
+epoch:121
+epoch:122
+epoch:123
+epoch:124
+epoch:125
+epoch:126
+epoch:127
+epoch:128
+epoch:129
+epoch:130
+epoch:131
+epoch:132
+epoch:133
+epoch:134
+epoch:135
+epoch:136
+epoch:137
+epoch:138
+epoch:139
+epoch:140
+epoch:141
+epoch:142
+epoch:143
+epoch:144
+epoch:145
+epoch:146
+epoch:147
+epoch:148
+epoch:149
+epoch:150
+epoch:151
+epoch:152
+epoch:153
+epoch:154
+epoch:155
+epoch:156
+epoch:157
+epoch:158
+epoch:159
+epoch:160
+epoch:161
+epoch:162
+epoch:163
+epoch:164
+epoch:165
+epoch:166
+epoch:167
+epoch:168
+epoch:169
+epoch:170
+epoch:171
+epoch:172
+epoch:173
+epoch:174
+epoch:175
+epoch:176
+epoch:177
+epoch:178
+epoch:179
+epoch:180
+epoch:181
+epoch:182
+epoch:183
+epoch:184
+epoch:185
+epoch:186
+epoch:187
+epoch:188
+epoch:189
+epoch:190
+epoch:191
+epoch:192
+epoch:193
+epoch:194
+epoch:195
+epoch:196
+epoch:197
+epoch:198
+epoch:199
+epoch:200
+epoch:201
+epoch:202
+epoch:203
+epoch:204
+epoch:205
+epoch:206
+epoch:207
+epoch:208
+epoch:209
+epoch:210
+epoch:211
+epoch:212
+epoch:213
+epoch:214
+epoch:215
+epoch:216
+epoch:217
+epoch:218
+epoch:219
+epoch:220
+epoch:221
+epoch:222
+epoch:223
+epoch:224
+epoch:225
+epoch:226
+epoch:227
+epoch:228
+epoch:229
+epoch:230
+epoch:231
+epoch:232
+epoch:233
+epoch:234
+epoch:235
+epoch:236
+epoch:237
+epoch:238
+epoch:239
+epoch:240
+epoch:241
+epoch:242
+epoch:243
+epoch:244
+epoch:245
+epoch:246
+epoch:247
+epoch:248
+epoch:249
+epoch:250
+epoch:251
+epoch:252
+epoch:253
+epoch:254
+epoch:255
+epoch:256
+epoch:257
+epoch:258
+epoch:259
+epoch:260
+epoch:261
+epoch:262
+epoch:263
+epoch:264
+epoch:265
+epoch:266
+epoch:267
+epoch:268
+epoch:269
+epoch:270
+epoch:271
+epoch:272
+epoch:273
+epoch:274
+epoch:275
+epoch:276
+epoch:277
+epoch:278
+epoch:279
+epoch:280
+epoch:281
+epoch:282
+epoch:283
+epoch:284
+epoch:285
+epoch:286
+epoch:287
+epoch:288
+epoch:289
+epoch:290
+epoch:291
+epoch:292
+epoch:293
+epoch:294
+epoch:295
+epoch:296
+epoch:297
+epoch:298
+epoch:299
+| Building net
+0.2
+4000
+saving noisy labels to ./checkpoints/c10/20sym/rand1/saved/easy_labels.p...
+epoch:0
+epoch:1
+epoch:2
+epoch:3
+epoch:4
+epoch:5
+epoch:6
+epoch:7
+epoch:8
+epoch:9
+epoch:10
+epoch:11
+epoch:12
+epoch:13
+epoch:14
+epoch:15
+epoch:16
+epoch:17
+epoch:18
+epoch:19
+epoch:20
+epoch:21
+epoch:22
+epoch:23
+epoch:24
+epoch:25
+epoch:26
+epoch:27
+epoch:28
+epoch:29
+epoch:30
+epoch:31
+epoch:32
+epoch:33
+epoch:34
+epoch:35
+epoch:36
+epoch:37
+epoch:38
+epoch:39
+epoch:40
+epoch:41
+epoch:42
+epoch:43
+epoch:44
+epoch:45
+epoch:46
+epoch:47
+epoch:48
+epoch:49
+epoch:50
+epoch:51
+epoch:52
+epoch:53
+epoch:54
+epoch:55
+epoch:56
+epoch:57
+epoch:58
+epoch:59
+epoch:60
+epoch:61
+epoch:62
+epoch:63
+epoch:64
+epoch:65
+epoch:66
+epoch:67
+epoch:68
+epoch:69
+epoch:70
+epoch:71
+epoch:72
+epoch:73
+epoch:74
+epoch:75
+epoch:76
+epoch:77
+epoch:78
+epoch:79
+epoch:80
+epoch:81
+epoch:82
+epoch:83
+epoch:84
+epoch:85
+epoch:86
+epoch:87
+epoch:88
+epoch:89
+epoch:90
+epoch:91
+epoch:92
+epoch:93
+epoch:94
+epoch:95
+epoch:96
+epoch:97
+epoch:98
+epoch:99
+epoch:100
+epoch:101
+epoch:102
+epoch:103
+epoch:104
+epoch:105
+epoch:106
+epoch:107
+epoch:108
+epoch:109
+epoch:110
+epoch:111
+epoch:112
+epoch:113
+epoch:114
+epoch:115
+epoch:116
+epoch:117
+epoch:118
+epoch:119
+epoch:120
+epoch:121
+epoch:122
+epoch:123
+epoch:124
+epoch:125
+epoch:126
+epoch:127
+epoch:128
+epoch:129
+epoch:130
+epoch:131
+epoch:132
+epoch:133
+epoch:134
+epoch:135
+epoch:136
+epoch:137
+epoch:138
+epoch:139
+epoch:140
+epoch:141
+epoch:142
+epoch:143
+epoch:144
+epoch:145
+epoch:146
+epoch:147
+epoch:148
+epoch:149
+epoch:150
+epoch:151
+epoch:152
+epoch:153
+epoch:154
+epoch:155
+epoch:156
+epoch:157
+epoch:158
+epoch:159
+epoch:160
+epoch:161
+epoch:162
+epoch:163
+epoch:164
+epoch:165
+epoch:166
+epoch:167
+epoch:168
+epoch:169
+epoch:170
+epoch:171
+epoch:172
+epoch:173
+epoch:174
+epoch:175
+epoch:176
+epoch:177
+epoch:178
+epoch:179
+epoch:180
+epoch:181
+epoch:182
+epoch:183
+epoch:184
+epoch:185
+epoch:186
+epoch:187
+epoch:188
+epoch:189
+epoch:190
+epoch:191
+epoch:192
+epoch:193
+epoch:194
+epoch:195
+epoch:196
+epoch:197
+epoch:198
+epoch:199
+epoch:200
+epoch:201
+epoch:202
+epoch:203
+epoch:204
+epoch:205
+epoch:206
+epoch:207
+epoch:208
+epoch:209
+epoch:210
+epoch:211
+epoch:212
+epoch:213
+epoch:214
+epoch:215
+epoch:216
+epoch:217
+epoch:218
+epoch:219
+epoch:220
+epoch:221
+epoch:222
+epoch:223
+epoch:224
+epoch:225
+epoch:226
+epoch:227
+epoch:228
+epoch:229
+epoch:230
+epoch:231
+epoch:232
+epoch:233
+epoch:234
+epoch:235
+epoch:236
+epoch:237
+epoch:238
+epoch:239
+epoch:240
+epoch:241
+epoch:242
+epoch:243
+epoch:244
+epoch:245
+epoch:246
+epoch:247
+epoch:248
+epoch:249
+epoch:250
+epoch:251
+epoch:252
+epoch:253
+epoch:254
+epoch:255
+epoch:256
+epoch:257
+epoch:258
+epoch:259
+epoch:260
+epoch:261
+epoch:262
+epoch:263
+epoch:264
+epoch:265
+epoch:266
+epoch:267
+epoch:268
+epoch:269
+epoch:270
+epoch:271
+epoch:272
+epoch:273
+epoch:274
+epoch:275
+epoch:276
+epoch:277
+epoch:278
+epoch:279
+epoch:280
+epoch:281
+epoch:282
+epoch:283
+epoch:284
+epoch:285
+epoch:286
+epoch:287
+epoch:288
+epoch:289
+epoch:290
+epoch:291
+epoch:292
+epoch:293
+epoch:294
+epoch:295
+epoch:296
+epoch:297
+epoch:298
+epoch:299
+training 1D-CNN classifier for class0
+Training: Epoch[001/050]  Loss: 3.2221 Acc:60.39%
+[[   0.  282.]
+ [   0. 2228.]]
+0.8876494023904382
+Training: Epoch[002/050]  Loss: 2.4246 Acc:84.24%
+Training: Epoch[003/050]  Loss: 2.3371 Acc:84.24%
+[[   0.  282.]
+ [   0. 2228.]]
+0.8876494023904382
+Training: Epoch[004/050]  Loss: 2.2101 Acc:84.24%
+Training: Epoch[005/050]  Loss: 2.0940 Acc:84.24%
+[[   0.  282.]
+ [   0. 2228.]]
+0.8876494023904382
+Training: Epoch[006/050]  Loss: 1.9801 Acc:84.24%
+Training: Epoch[007/050]  Loss: 1.8263 Acc:84.24%
+[[   0.  282.]
+ [   0. 2228.]]
+0.8876494023904382
+Training: Epoch[008/050]  Loss: 1.6331 Acc:84.24%
+Training: Epoch[009/050]  Loss: 1.3847 Acc:84.24%
+[[5.300e+01 2.290e+02]
+ [1.000e+00 2.227e+03]]
+0.9083665338645418
+Training: Epoch[010/050]  Loss: 1.1006 Acc:85.71%
+Training: Epoch[011/050]  Loss: 0.7870 Acc:93.99%
+[[ 172.  110.]
+ [  30. 2198.]]
+0.9442231075697212
+Training: Epoch[012/050]  Loss: 0.5251 Acc:96.95%
+Training: Epoch[013/050]  Loss: 0.3530 Acc:98.33%
+[[ 219.   63.]
+ [  70. 2158.]]
+0.947011952191235
+Training: Epoch[014/050]  Loss: 0.2532 Acc:98.52%
+Training: Epoch[015/050]  Loss: 0.1982 Acc:98.72%
+[[ 230.   52.]
+ [ 107. 2121.]]
+0.9366533864541833
+Training: Epoch[016/050]  Loss: 0.1662 Acc:98.82%
+Training: Epoch[017/050]  Loss: 0.1454 Acc:98.92%
+[[ 233.   49.]
+ [ 122. 2106.]]
+0.9318725099601594
+Training: Epoch[018/050]  Loss: 0.1316 Acc:98.92%
+Training: Epoch[019/050]  Loss: 0.1219 Acc:98.92%
+[[ 235.   47.]
+ [ 138. 2090.]]
+0.9262948207171314
+Training: Epoch[020/050]  Loss: 0.1149 Acc:98.82%
+Training: Epoch[021/050]  Loss: 0.1098 Acc:98.82%
+[[ 236.   46.]
+ [ 145. 2083.]]
+0.9239043824701195
+Training: Epoch[022/050]  Loss: 0.1060 Acc:98.92%
+Training: Epoch[023/050]  Loss: 0.1034 Acc:99.01%
+[[ 236.   46.]
+ [ 157. 2071.]]
+0.9191235059760956
+Training: Epoch[024/050]  Loss: 0.1016 Acc:99.11%
+Training: Epoch[025/050]  Loss: 0.1008 Acc:99.11%
+[[ 236.   46.]
+ [ 157. 2071.]]
+0.9191235059760956
+Training: Epoch[026/050]  Loss: 0.1009 Acc:99.11%
+Training: Epoch[027/050]  Loss: 0.1019 Acc:99.11%
+[[ 236.   46.]
+ [ 155. 2073.]]
+0.9199203187250996
+Training: Epoch[028/050]  Loss: 0.1038 Acc:99.11%
+Training: Epoch[029/050]  Loss: 0.1059 Acc:98.92%
+[[ 236.   46.]
+ [ 151. 2077.]]
+0.9215139442231076
+Training: Epoch[030/050]  Loss: 0.1068 Acc:98.82%
+Training: Epoch[031/050]  Loss: 0.1043 Acc:98.92%
+[[ 237.   45.]
+ [ 162. 2066.]]
+0.9175298804780877
+Training: Epoch[032/050]  Loss: 0.0964 Acc:99.11%
+Training: Epoch[033/050]  Loss: 0.0845 Acc:99.21%
+[[ 244.   38.]
+ [ 188. 2040.]]
+0.9099601593625498
+Training: Epoch[034/050]  Loss: 0.0776 Acc:99.31%
+Training: Epoch[035/050]  Loss: 0.0804 Acc:99.31%
+[[ 244.   38.]
+ [ 187. 2041.]]
+0.9103585657370518
+Training: Epoch[036/050]  Loss: 0.0768 Acc:99.31%
+Training: Epoch[037/050]  Loss: 0.0787 Acc:99.31%
+[[ 244.   38.]
+ [ 183. 2045.]]
+0.9119521912350598
+Training: Epoch[038/050]  Loss: 0.0773 Acc:99.31%
+Training: Epoch[039/050]  Loss: 0.0778 Acc:99.31%
+[[ 243.   39.]
+ [ 179. 2049.]]
+0.9131474103585657
+Training: Epoch[040/050]  Loss: 0.0794 Acc:99.31%
+Training: Epoch[041/050]  Loss: 0.0841 Acc:99.31%
+[[ 239.   43.]
+ [ 165. 2063.]]
+0.9171314741035856
+Training: Epoch[042/050]  Loss: 0.0969 Acc:99.01%
+Training: Epoch[043/050]  Loss: 0.1222 Acc:98.72%
+[[ 233.   49.]
+ [ 121. 2107.]]
+0.9322709163346613
+Training: Epoch[044/050]  Loss: 0.1431 Acc:98.72%
+Training: Epoch[045/050]  Loss: 0.1259 Acc:98.72%
+[[ 240.   42.]
+ [ 168. 2060.]]
+0.9163346613545816
+Training: Epoch[046/050]  Loss: 0.0784 Acc:99.21%
+Training: Epoch[047/050]  Loss: 0.0720 Acc:99.41%
+[[ 235.   47.]
+ [ 134. 2094.]]
+0.9278884462151394
+Training: Epoch[048/050]  Loss: 0.1033 Acc:99.01%
+Training: Epoch[049/050]  Loss: 0.0697 Acc:99.41%
+[[ 238.   44.]
+ [ 159. 2069.]]
+0.9191235059760956
+Training: Epoch[050/050]  Loss: 0.0845 Acc:99.21%
+Training: Epoch[001/050]  Loss: 4.7215 Acc:65.32%
+[[   0.  282.]
+ [   0. 2228.]]
+0.8876494023904382
+Training: Epoch[002/050]  Loss: 2.4380 Acc:84.24%
+Training: Epoch[003/050]  Loss: 2.3010 Acc:84.24%
+[[   0.  282.]
+ [   0. 2228.]]
+0.8876494023904382
+Training: Epoch[004/050]  Loss: 2.1691 Acc:84.24%
+Training: Epoch[005/050]  Loss: 2.0604 Acc:84.24%
+[[   0.  282.]
+ [   0. 2228.]]
+0.8876494023904382
+Training: Epoch[006/050]  Loss: 1.8518 Acc:84.24%
+Training: Epoch[007/050]  Loss: 1.6992 Acc:84.24%
+[[   0.  282.]
+ [   0. 2228.]]
+0.8876494023904382
+Training: Epoch[008/050]  Loss: 1.5126 Acc:84.24%
+Training: Epoch[009/050]  Loss: 1.2783 Acc:84.24%
+[[  88.  194.]
+ [   3. 2225.]]
+0.9215139442231076
+Training: Epoch[010/050]  Loss: 1.0365 Acc:88.47%
+Training: Epoch[011/050]  Loss: 0.6910 Acc:95.76%
+[[ 168.  114.]
+ [  30. 2198.]]
+0.9426294820717132
+Training: Epoch[012/050]  Loss: 0.5517 Acc:96.55%
+Training: Epoch[013/050]  Loss: 0.3198 Acc:98.42%
+[[ 220.   62.]
+ [  79. 2149.]]
+0.9438247011952191
+Training: Epoch[014/050]  Loss: 0.2374 Acc:98.52%
+Training: Epoch[015/050]  Loss: 0.1975 Acc:98.52%
+[[ 226.   56.]
+ [ 107. 2121.]]
+0.9350597609561753
+Training: Epoch[016/050]  Loss: 0.1721 Acc:98.92%
+Training: Epoch[017/050]  Loss: 0.1561 Acc:98.92%
+[[ 232.   50.]
+ [ 121. 2107.]]
+0.9318725099601594
+Training: Epoch[018/050]  Loss: 0.1461 Acc:98.92%
+Training: Epoch[019/050]  Loss: 0.1397 Acc:98.92%
+[[ 233.   49.]
+ [ 126. 2102.]]
+0.9302788844621513
+Training: Epoch[020/050]  Loss: 0.1364 Acc:98.92%
+Training: Epoch[021/050]  Loss: 0.1355 Acc:98.92%
+[[ 233.   49.]
+ [ 128. 2100.]]
+0.9294820717131475
+Training: Epoch[022/050]  Loss: 0.1360 Acc:98.92%
+Training: Epoch[023/050]  Loss: 0.1366 Acc:98.92%
+[[ 233.   49.]
+ [ 127. 2101.]]
+0.9298804780876494
+Training: Epoch[024/050]  Loss: 0.1358 Acc:98.92%
+Training: Epoch[025/050]  Loss: 0.1315 Acc:98.92%
+[[ 234.   48.]
+ [ 135. 2093.]]
+0.9270916334661354
+Training: Epoch[026/050]  Loss: 0.1238 Acc:99.01%
+Training: Epoch[027/050]  Loss: 0.1149 Acc:99.01%
+[[ 235.   47.]
+ [ 156. 2072.]]
+0.9191235059760956
+Training: Epoch[028/050]  Loss: 0.1068 Acc:99.01%
+Training: Epoch[029/050]  Loss: 0.1010 Acc:99.01%
+[[ 238.   44.]
+ [ 174. 2054.]]
+0.9131474103585657
+Training: Epoch[030/050]  Loss: 0.0982 Acc:99.11%
+Training: Epoch[031/050]  Loss: 0.0986 Acc:99.11%
+[[ 238.   44.]
+ [ 168. 2060.]]
+0.9155378486055777
+Training: Epoch[032/050]  Loss: 0.1050 Acc:99.01%
+Training: Epoch[033/050]  Loss: 0.1285 Acc:98.92%
+[[ 232.   50.]
+ [ 120. 2108.]]
+0.9322709163346613
+Training: Epoch[034/050]  Loss: 0.1742 Acc:98.82%
+Training: Epoch[035/050]  Loss: 0.1770 Acc:98.82%
+[[ 233.   49.]
+ [ 134. 2094.]]
+0.9270916334661354
+Training: Epoch[036/050]  Loss: 0.1186 Acc:99.11%
+Training: Epoch[037/050]  Loss: 0.0845 Acc:99.21%
+[[ 241.   41.]
+ [ 186. 2042.]]
+0.9095617529880478
+Training: Epoch[038/050]  Loss: 0.0871 Acc:99.11%
+Training: Epoch[039/050]  Loss: 0.0830 Acc:99.21%
+[[ 241.   41.]
+ [ 186. 2042.]]
+0.9095617529880478
+Training: Epoch[040/050]  Loss: 0.0865 Acc:99.11%
+Training: Epoch[041/050]  Loss: 0.0816 Acc:99.21%
+[[ 241.   41.]
+ [ 188. 2040.]]
+0.9087649402390439
+Training: Epoch[042/050]  Loss: 0.0863 Acc:99.11%
+Training: Epoch[043/050]  Loss: 0.0816 Acc:99.21%
+[[ 243.   39.]
+ [ 194. 2034.]]
+0.9071713147410359
+Training: Epoch[044/050]  Loss: 0.0838 Acc:99.11%
+Training: Epoch[045/050]  Loss: 0.0854 Acc:99.11%
+[[ 242.   40.]
+ [ 183. 2045.]]
+0.9111553784860558
+Training: Epoch[046/050]  Loss: 0.0932 Acc:99.11%
+Training: Epoch[047/050]  Loss: 0.1170 Acc:99.01%
+[[ 233.   49.]
+ [ 131. 2097.]]
+0.9282868525896414
+Training: Epoch[048/050]  Loss: 0.1459 Acc:98.72%
+Training: Epoch[049/050]  Loss: 0.1376 Acc:98.92%
+[[ 237.   45.]
+ [ 162. 2066.]]
+0.9175298804780877
+Training: Epoch[050/050]  Loss: 0.0932 Acc:99.01%
+training 1D-CNN classifier for class1
+Training: Epoch[001/050]  Loss: 4.4209 Acc:63.99%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[002/050]  Loss: 2.4203 Acc:87.63%
+Training: Epoch[003/050]  Loss: 2.3012 Acc:87.63%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[004/050]  Loss: 2.2158 Acc:87.63%
+Training: Epoch[005/050]  Loss: 2.1704 Acc:87.63%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[006/050]  Loss: 2.0189 Acc:87.63%
+Training: Epoch[007/050]  Loss: 2.5585 Acc:87.63%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[008/050]  Loss: 2.5112 Acc:87.63%
+Training: Epoch[009/050]  Loss: 1.9294 Acc:87.63%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[010/050]  Loss: 1.6053 Acc:87.63%
+Training: Epoch[011/050]  Loss: 1.3978 Acc:87.63%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[012/050]  Loss: 1.2339 Acc:87.63%
+Training: Epoch[013/050]  Loss: 0.7828 Acc:92.43%
+[[ 292.  476.]
+ [   4. 2007.]]
+0.8272759985606333
+Training: Epoch[014/050]  Loss: 0.5543 Acc:96.77%
+Training: Epoch[015/050]  Loss: 0.3861 Acc:98.15%
+[[ 443.  325.]
+ [  16. 1995.]]
+0.8772939906441166
+Training: Epoch[016/050]  Loss: 0.2507 Acc:98.89%
+Training: Epoch[017/050]  Loss: 0.1796 Acc:99.35%
+[[ 508.  260.]
+ [  28. 1983.]]
+0.89636559913638
+Training: Epoch[018/050]  Loss: 0.1428 Acc:99.35%
+Training: Epoch[019/050]  Loss: 0.1221 Acc:99.45%
+[[ 545.  223.]
+ [  36. 1975.]]
+0.906801007556675
+Training: Epoch[020/050]  Loss: 0.1106 Acc:99.54%
+Training: Epoch[021/050]  Loss: 0.1043 Acc:99.54%
+[[ 551.  217.]
+ [  39. 1972.]]
+0.9078805325656711
+Training: Epoch[022/050]  Loss: 0.1036 Acc:99.54%
+Training: Epoch[023/050]  Loss: 0.1066 Acc:99.54%
+[[ 549.  219.]
+ [  36. 1975.]]
+0.9082403742353364
+Training: Epoch[024/050]  Loss: 0.1080 Acc:99.54%
+Training: Epoch[025/050]  Loss: 0.1052 Acc:99.54%
+[[ 555.  213.]
+ [  42. 1969.]]
+0.9082403742353364
+Training: Epoch[026/050]  Loss: 0.0963 Acc:99.54%
+Training: Epoch[027/050]  Loss: 0.0842 Acc:99.63%
+[[ 589.  179.]
+ [  57. 1954.]]
+0.915077365958978
+Training: Epoch[028/050]  Loss: 0.0754 Acc:99.63%
+Training: Epoch[029/050]  Loss: 0.0723 Acc:99.63%
+[[ 596.  172.]
+ [  60. 1951.]]
+0.9165167326376394
+Training: Epoch[030/050]  Loss: 0.0741 Acc:99.63%
+Training: Epoch[031/050]  Loss: 0.0776 Acc:99.63%
+[[ 591.  177.]
+ [  59. 1952.]]
+0.915077365958978
+Training: Epoch[032/050]  Loss: 0.0788 Acc:99.63%
+Training: Epoch[033/050]  Loss: 0.0764 Acc:99.63%
+[[ 605.  163.]
+ [  63. 1948.]]
+0.9186757826556315
+Training: Epoch[034/050]  Loss: 0.0694 Acc:99.63%
+Training: Epoch[035/050]  Loss: 0.0607 Acc:99.63%
+[[ 631.  137.]
+ [  75. 1936.]]
+0.9237135660309463
+Training: Epoch[036/050]  Loss: 0.0544 Acc:99.72%
+Training: Epoch[037/050]  Loss: 0.0504 Acc:99.82%
+[[ 641.  127.]
+ [  82. 1929.]]
+0.9247930910399424
+Training: Epoch[038/050]  Loss: 0.0485 Acc:99.82%
+Training: Epoch[039/050]  Loss: 0.0485 Acc:99.82%
+[[ 642.  126.]
+ [  80. 1931.]]
+0.9258726160489384
+Training: Epoch[040/050]  Loss: 0.0510 Acc:99.82%
+Training: Epoch[041/050]  Loss: 0.0554 Acc:99.82%
+[[ 633.  135.]
+ [  74. 1937.]]
+0.9247930910399424
+Training: Epoch[042/050]  Loss: 0.0597 Acc:99.72%
+Training: Epoch[043/050]  Loss: 0.0592 Acc:99.72%
+[[ 638.  130.]
+ [  78. 1933.]]
+0.9251529327096077
+Training: Epoch[044/050]  Loss: 0.0528 Acc:99.82%
+Training: Epoch[045/050]  Loss: 0.0427 Acc:99.82%
+[[ 664.  104.]
+ [ 108. 1903.]]
+0.9237135660309463
+Training: Epoch[046/050]  Loss: 0.0338 Acc:99.82%
+Training: Epoch[047/050]  Loss: 0.0304 Acc:99.72%
+[[ 666.  102.]
+ [ 111. 1900.]]
+0.923353724361281
+Training: Epoch[048/050]  Loss: 0.0326 Acc:99.82%
+Training: Epoch[049/050]  Loss: 0.0298 Acc:99.72%
+[[ 666.  102.]
+ [ 112. 1899.]]
+0.9229938826916156
+Training: Epoch[050/050]  Loss: 0.0319 Acc:99.82%
+Training: Epoch[001/050]  Loss: 2.3841 Acc:63.99%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[002/050]  Loss: 2.6922 Acc:87.63%
+Training: Epoch[003/050]  Loss: 2.3439 Acc:87.63%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[004/050]  Loss: 2.1763 Acc:87.63%
+Training: Epoch[005/050]  Loss: 2.0093 Acc:87.63%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[006/050]  Loss: 2.0615 Acc:87.63%
+Training: Epoch[007/050]  Loss: 2.0447 Acc:87.63%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[008/050]  Loss: 1.6877 Acc:87.63%
+Training: Epoch[009/050]  Loss: 1.6332 Acc:87.63%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[010/050]  Loss: 1.2715 Acc:87.63%
+Training: Epoch[011/050]  Loss: 1.2179 Acc:87.63%
+[[   0.  768.]
+ [   0. 2011.]]
+0.7236415976970133
+Training: Epoch[012/050]  Loss: 0.8806 Acc:87.63%
+Training: Epoch[013/050]  Loss: 0.6624 Acc:93.26%
+[[ 374.  394.]
+ [   6. 2005.]]
+0.8560633321338611
+Training: Epoch[014/050]  Loss: 0.4885 Acc:96.77%
+Training: Epoch[015/050]  Loss: 0.3365 Acc:98.71%
+[[ 501.  267.]
+ [  22. 1989.]]
+0.8960057574667146
+Training: Epoch[016/050]  Loss: 0.2309 Acc:99.08%
+Training: Epoch[017/050]  Loss: 0.1655 Acc:99.35%
+[[ 552.  216.]
+ [  37. 1974.]]
+0.9089600575746671
+Training: Epoch[018/050]  Loss: 0.1274 Acc:99.45%
+Training: Epoch[019/050]  Loss: 0.1047 Acc:99.54%
+[[ 581.  187.]
+ [  52. 1959.]]
+0.913997840949982
+Training: Epoch[020/050]  Loss: 0.0908 Acc:99.54%
+Training: Epoch[021/050]  Loss: 0.0822 Acc:99.63%
+[[ 594.  174.]
+ [  58. 1953.]]
+0.9165167326376394
+Training: Epoch[022/050]  Loss: 0.0773 Acc:99.63%
+Training: Epoch[023/050]  Loss: 0.0754 Acc:99.63%
+[[ 599.  169.]
+ [  58. 1953.]]
+0.9183159409859661
+Training: Epoch[024/050]  Loss: 0.0761 Acc:99.63%
+Training: Epoch[025/050]  Loss: 0.0786 Acc:99.63%
+[[ 593.  175.]
+ [  58. 1953.]]
+0.9161568909679741
+Training: Epoch[026/050]  Loss: 0.0809 Acc:99.63%
+Training: Epoch[027/050]  Loss: 0.0808 Acc:99.63%
+[[ 601.  167.]
+ [  59. 1952.]]
+0.9186757826556315
+Training: Epoch[028/050]  Loss: 0.0774 Acc:99.63%
+Training: Epoch[029/050]  Loss: 0.0724 Acc:99.63%
+[[ 618.  150.]
+ [  67. 1944.]]
+0.9219143576826196
+Training: Epoch[030/050]  Loss: 0.0676 Acc:99.63%
+Training: Epoch[031/050]  Loss: 0.0642 Acc:99.63%
+[[ 626.  142.]
+ [  69. 1942.]]
+0.9240734077006117
+Training: Epoch[032/050]  Loss: 0.0625 Acc:99.63%
+Training: Epoch[033/050]  Loss: 0.0618 Acc:99.63%
+[[ 633.  135.]
+ [  71. 1940.]]
+0.9258726160489384
+Training: Epoch[034/050]  Loss: 0.0617 Acc:99.63%
+Training: Epoch[035/050]  Loss: 0.0616 Acc:99.63%
+[[ 634.  134.]
+ [  73. 1938.]]
+0.9255127743792732
+Training: Epoch[036/050]  Loss: 0.0608 Acc:99.63%
+Training: Epoch[037/050]  Loss: 0.0586 Acc:99.72%
+[[ 644.  124.]
+ [  80. 1931.]]
+0.9265922993882691
+Training: Epoch[038/050]  Loss: 0.0554 Acc:99.72%
+Training: Epoch[039/050]  Loss: 0.0518 Acc:99.82%
+[[ 655.  113.]
+ [  89. 1922.]]
+0.9273119827275998
+Training: Epoch[040/050]  Loss: 0.0484 Acc:99.82%
+Training: Epoch[041/050]  Loss: 0.0453 Acc:99.82%
+[[ 661.  107.]
+ [  98. 1913.]]
+0.9262324577186039
+Training: Epoch[042/050]  Loss: 0.0426 Acc:99.82%
+Training: Epoch[043/050]  Loss: 0.0402 Acc:99.82%
+[[ 665.  103.]
+ [ 109. 1902.]]
+0.9237135660309463
+Training: Epoch[044/050]  Loss: 0.0381 Acc:99.82%
+Training: Epoch[045/050]  Loss: 0.0362 Acc:99.82%
+[[ 669.   99.]
+ [ 117. 1894.]]
+0.9222741993522849
+Training: Epoch[046/050]  Loss: 0.0346 Acc:99.82%
+Training: Epoch[047/050]  Loss: 0.0333 Acc:99.82%
+[[ 671.   97.]
+ [ 120. 1891.]]
+0.9219143576826196
+Training: Epoch[048/050]  Loss: 0.0327 Acc:99.82%
+Training: Epoch[049/050]  Loss: 0.0330 Acc:99.82%
+[[ 669.   99.]
+ [ 118. 1893.]]
+0.9219143576826196
+Training: Epoch[050/050]  Loss: 0.0345 Acc:99.82%
+training 1D-CNN classifier for class2
+Training: Epoch[001/050]  Loss: 1.2543 Acc:87.39%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[002/050]  Loss: 3.5824 Acc:86.99%
+Training: Epoch[003/050]  Loss: 2.3681 Acc:86.99%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[004/050]  Loss: 2.0237 Acc:86.99%
+Training: Epoch[005/050]  Loss: 1.9353 Acc:86.99%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[006/050]  Loss: 1.8684 Acc:86.99%
+Training: Epoch[007/050]  Loss: 1.8103 Acc:86.99%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[008/050]  Loss: 1.7441 Acc:86.99%
+Training: Epoch[009/050]  Loss: 1.7030 Acc:86.99%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[010/050]  Loss: 1.5969 Acc:86.99%
+Training: Epoch[011/050]  Loss: 1.5272 Acc:86.99%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[012/050]  Loss: 1.4396 Acc:86.99%
+Training: Epoch[013/050]  Loss: 1.3404 Acc:86.99%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[014/050]  Loss: 1.2166 Acc:86.99%
+Training: Epoch[015/050]  Loss: 1.0735 Acc:86.99%
+[[  56.  397.]
+ [   4. 2116.]]
+0.8441507967353284
+Training: Epoch[016/050]  Loss: 0.9271 Acc:89.87%
+Training: Epoch[017/050]  Loss: 0.7597 Acc:92.85%
+[[ 207.  246.]
+ [  71. 2049.]]
+0.8767975126311699
+Training: Epoch[018/050]  Loss: 0.5697 Acc:95.93%
+Training: Epoch[019/050]  Loss: 0.4094 Acc:97.42%
+[[ 301.  152.]
+ [ 158. 1962.]]
+0.8795180722891566
+Training: Epoch[020/050]  Loss: 0.2908 Acc:98.31%
+Training: Epoch[021/050]  Loss: 0.2154 Acc:98.61%
+[[ 350.  103.]
+ [ 227. 1893.]]
+0.8717450446949087
+Training: Epoch[022/050]  Loss: 0.1711 Acc:99.11%
+Training: Epoch[023/050]  Loss: 0.1516 Acc:99.11%
+[[ 362.   91.]
+ [ 255. 1865.]]
+0.8655266226195103
+Training: Epoch[024/050]  Loss: 0.1415 Acc:99.11%
+Training: Epoch[025/050]  Loss: 0.1346 Acc:99.21%
+[[ 366.   87.]
+ [ 276. 1844.]]
+0.8589195491643995
+Training: Epoch[026/050]  Loss: 0.1300 Acc:99.21%
+Training: Epoch[027/050]  Loss: 0.1265 Acc:99.11%
+[[ 368.   85.]
+ [ 287. 1833.]]
+0.8554216867469879
+Training: Epoch[028/050]  Loss: 0.1239 Acc:99.11%
+Training: Epoch[029/050]  Loss: 0.1218 Acc:99.11%
+[[ 369.   84.]
+ [ 297. 1823.]]
+0.8519238243295764
+Training: Epoch[030/050]  Loss: 0.1204 Acc:99.01%
+Training: Epoch[031/050]  Loss: 0.1190 Acc:99.11%
+[[ 369.   84.]
+ [ 299. 1821.]]
+0.8511465215701516
+Training: Epoch[032/050]  Loss: 0.1187 Acc:99.11%
+Training: Epoch[033/050]  Loss: 0.1187 Acc:99.21%
+[[ 359.   94.]
+ [ 245. 1875.]]
+0.8682471822774971
+Training: Epoch[034/050]  Loss: 0.1944 Acc:98.81%
+Training: Epoch[035/050]  Loss: 0.3654 Acc:97.02%
+[[ 269.  184.]
+ [ 123. 1997.]]
+0.8806840264282938
+Training: Epoch[036/050]  Loss: 0.4247 Acc:96.82%
+Training: Epoch[037/050]  Loss: 0.1899 Acc:98.31%
+[[ 380.   73.]
+ [ 370. 1750.]]
+0.8278274387874077
+Training: Epoch[038/050]  Loss: 0.1261 Acc:98.91%
+Training: Epoch[039/050]  Loss: 0.1405 Acc:99.11%
+[[ 380.   73.]
+ [ 369. 1751.]]
+0.8282160901671201
+Training: Epoch[040/050]  Loss: 0.1255 Acc:99.01%
+Training: Epoch[041/050]  Loss: 0.1428 Acc:99.11%
+[[ 380.   73.]
+ [ 370. 1750.]]
+0.8278274387874077
+Training: Epoch[042/050]  Loss: 0.1260 Acc:98.91%
+Training: Epoch[043/050]  Loss: 0.1513 Acc:99.01%
+[[ 380.   73.]
+ [ 369. 1751.]]
+0.8282160901671201
+Training: Epoch[044/050]  Loss: 0.1253 Acc:99.01%
+Training: Epoch[045/050]  Loss: 0.1573 Acc:98.81%
+[[ 378.   75.]
+ [ 366. 1754.]]
+0.8286047415468325
+Training: Epoch[046/050]  Loss: 0.1231 Acc:99.01%
+Training: Epoch[047/050]  Loss: 0.1566 Acc:99.01%
+[[ 377.   76.]
+ [ 362. 1758.]]
+0.8297706956859697
+Training: Epoch[048/050]  Loss: 0.1215 Acc:99.11%
+Training: Epoch[049/050]  Loss: 0.1553 Acc:99.01%
+[[ 377.   76.]
+ [ 361. 1759.]]
+0.8301593470656821
+Training: Epoch[050/050]  Loss: 0.1204 Acc:99.11%
+Training: Epoch[001/050]  Loss: 4.5728 Acc:61.57%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[002/050]  Loss: 1.9974 Acc:86.99%
+Training: Epoch[003/050]  Loss: 1.9272 Acc:86.99%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[004/050]  Loss: 1.8545 Acc:86.99%
+Training: Epoch[005/050]  Loss: 1.7836 Acc:86.99%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[006/050]  Loss: 1.7026 Acc:86.99%
+Training: Epoch[007/050]  Loss: 1.6128 Acc:86.99%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[008/050]  Loss: 1.5221 Acc:86.99%
+Training: Epoch[009/050]  Loss: 1.4267 Acc:86.99%
+[[   0.  453.]
+ [   0. 2120.]]
+0.8239409249902837
+Training: Epoch[010/050]  Loss: 1.3223 Acc:86.99%
+Training: Epoch[011/050]  Loss: 1.2174 Acc:86.99%
+[[   4.  449.]
+ [   0. 2120.]]
+0.8254955305091333
+Training: Epoch[012/050]  Loss: 1.0697 Acc:86.99%
+Training: Epoch[013/050]  Loss: 0.9186 Acc:89.77%
+[[ 108.  345.]
+ [  27. 2093.]]
+0.8554216867469879
+Training: Epoch[014/050]  Loss: 0.7623 Acc:93.25%
+Training: Epoch[015/050]  Loss: 0.6087 Acc:95.23%
+[[ 219.  234.]
+ [  87. 2033.]]
+0.8752429071123202
+Training: Epoch[016/050]  Loss: 0.4651 Acc:96.92%
+Training: Epoch[017/050]  Loss: 0.3566 Acc:97.72%
+[[ 283.  170.]
+ [ 133. 1987.]]
+0.8822386319471434
+Training: Epoch[018/050]  Loss: 0.2791 Acc:98.21%
+Training: Epoch[019/050]  Loss: 0.2277 Acc:98.71%
+[[ 324.  129.]
+ [ 174. 1946.]]
+0.8822386319471434
+Training: Epoch[020/050]  Loss: 0.1939 Acc:98.81%
+Training: Epoch[021/050]  Loss: 0.1716 Acc:98.81%
+[[ 342.  111.]
+ [ 202. 1918.]]
+0.8783521181500195
+Training: Epoch[022/050]  Loss: 0.1564 Acc:99.01%
+Training: Epoch[023/050]  Loss: 0.1457 Acc:99.11%
+[[ 349.  104.]
+ [ 226. 1894.]]
+0.8717450446949087
+Training: Epoch[024/050]  Loss: 0.1382 Acc:99.11%
+Training: Epoch[025/050]  Loss: 0.1323 Acc:99.21%
+[[ 355.   98.]
+ [ 247. 1873.]]
+0.8659152739992227
+Training: Epoch[026/050]  Loss: 0.1274 Acc:99.01%
+Training: Epoch[027/050]  Loss: 0.1220 Acc:99.01%
+[[ 365.   88.]
+ [ 279. 1841.]]
+0.8573649436455499
+Training: Epoch[028/050]  Loss: 0.1169 Acc:99.01%
+Training: Epoch[029/050]  Loss: 0.1147 Acc:99.11%
+[[ 366.   87.]
+ [ 286. 1834.]]
+0.8550330353672756
+Training: Epoch[030/050]  Loss: 0.1147 Acc:99.11%
+Training: Epoch[031/050]  Loss: 0.1137 Acc:99.21%
+[[ 359.   94.]
+ [ 264. 1856.]]
+0.8608628060629615
+Training: Epoch[032/050]  Loss: 0.1366 Acc:99.01%
+Training: Epoch[033/050]  Loss: 0.3786 Acc:96.72%
+[[ 246.  207.]
+ [ 104. 2016.]]
+0.8791294209094442
+Training: Epoch[034/050]  Loss: 0.4149 Acc:96.62%
+Training: Epoch[035/050]  Loss: 0.1114 Acc:99.01%
+[[ 366.   87.]
+ [ 289. 1831.]]
+0.8538670812281384
+Training: Epoch[036/050]  Loss: 0.1102 Acc:99.21%
+Training: Epoch[037/050]  Loss: 0.1100 Acc:99.11%
+[[ 366.   87.]
+ [ 287. 1833.]]
+0.8546443839875631
+Training: Epoch[038/050]  Loss: 0.1093 Acc:99.11%
+Training: Epoch[039/050]  Loss: 0.1091 Acc:99.11%
+[[ 367.   86.]
+ [ 293. 1827.]]
+0.8527011270890011
+Training: Epoch[040/050]  Loss: 0.1086 Acc:99.30%
+Training: Epoch[041/050]  Loss: 0.1086 Acc:99.11%
+[[ 367.   86.]
+ [ 304. 1816.]]
+0.8484259619121648
+Training: Epoch[042/050]  Loss: 0.1084 Acc:99.30%
+Training: Epoch[043/050]  Loss: 0.1108 Acc:99.11%
+[[ 370.   83.]
+ [ 322. 1798.]]
+0.8425961912164788
+Training: Epoch[044/050]  Loss: 0.1125 Acc:99.30%
+Training: Epoch[045/050]  Loss: 0.1584 Acc:99.01%
+[[ 357.   96.]
+ [ 244. 1876.]]
+0.8678585308977846
+Training: Epoch[046/050]  Loss: 0.1184 Acc:99.21%
+Training: Epoch[047/050]  Loss: 0.1119 Acc:99.30%
+[[ 341.  112.]
+ [ 203. 1917.]]
+0.8775748153905947
+Training: Epoch[048/050]  Loss: 0.1697 Acc:98.81%
+Training: Epoch[049/050]  Loss: 0.1374 Acc:99.11%
+[[ 367.   86.]
+ [ 294. 1826.]]
+0.8523124757092888
+Training: Epoch[050/050]  Loss: 0.1043 Acc:99.30%
+training 1D-CNN classifier for class3
+Training: Epoch[001/050]  Loss: 3.2955 Acc:66.95%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[002/050]  Loss: 2.3360 Acc:82.88%
+Training: Epoch[003/050]  Loss: 2.3098 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[004/050]  Loss: 2.2190 Acc:82.88%
+Training: Epoch[005/050]  Loss: 2.0770 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[006/050]  Loss: 2.0096 Acc:82.88%
+Training: Epoch[007/050]  Loss: 1.9355 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[008/050]  Loss: 2.4553 Acc:82.88%
+Training: Epoch[009/050]  Loss: 1.9830 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[010/050]  Loss: 1.8230 Acc:82.88%
+Training: Epoch[011/050]  Loss: 1.7627 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[012/050]  Loss: 1.7063 Acc:82.88%
+Training: Epoch[013/050]  Loss: 1.7197 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[014/050]  Loss: 1.5626 Acc:82.88%
+Training: Epoch[015/050]  Loss: 1.5798 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[016/050]  Loss: 1.3724 Acc:82.88%
+Training: Epoch[017/050]  Loss: 1.3175 Acc:82.88%
+[[   2.  524.]
+ [   0. 1821.]]
+0.7767362590541116
+Training: Epoch[018/050]  Loss: 1.2168 Acc:82.88%
+Training: Epoch[019/050]  Loss: 1.1129 Acc:85.90%
+[[  51.  475.]
+ [  10. 1811.]]
+0.7933532168726033
+Training: Epoch[020/050]  Loss: 1.0106 Acc:89.56%
+Training: Epoch[021/050]  Loss: 0.9135 Acc:91.50%
+[[ 104.  422.]
+ [  38. 1783.]]
+0.804005112910098
+Training: Epoch[022/050]  Loss: 0.8182 Acc:92.36%
+Training: Epoch[023/050]  Loss: 0.7176 Acc:93.33%
+[[ 165.  361.]
+ [  88. 1733.]]
+0.8086919471665956
+Training: Epoch[024/050]  Loss: 0.6215 Acc:94.29%
+Training: Epoch[025/050]  Loss: 0.5369 Acc:95.05%
+[[ 233.  293.]
+ [ 136. 1685.]]
+0.8172134639965913
+Training: Epoch[026/050]  Loss: 0.4634 Acc:95.91%
+Training: Epoch[027/050]  Loss: 0.3992 Acc:96.56%
+[[ 272.  254.]
+ [ 230. 1591.]]
+0.7937792927141031
+Training: Epoch[028/050]  Loss: 0.3434 Acc:96.77%
+Training: Epoch[029/050]  Loss: 0.3014 Acc:96.88%
+[[ 326.  200.]
+ [ 330. 1491.]]
+0.7741798040051129
+Training: Epoch[030/050]  Loss: 0.2741 Acc:97.63%
+Training: Epoch[031/050]  Loss: 0.2649 Acc:97.63%
+[[ 355.  171.]
+ [ 388. 1433.]]
+0.7618236046016191
+Training: Epoch[032/050]  Loss: 0.2657 Acc:97.63%
+Training: Epoch[033/050]  Loss: 0.2659 Acc:97.63%
+[[ 363.  163.]
+ [ 397. 1424.]]
+0.7613975287601193
+Training: Epoch[034/050]  Loss: 0.2676 Acc:97.63%
+Training: Epoch[035/050]  Loss: 0.2688 Acc:97.63%
+[[ 364.  162.]
+ [ 399. 1422.]]
+0.7609714529186196
+Training: Epoch[036/050]  Loss: 0.2708 Acc:97.63%
+Training: Epoch[037/050]  Loss: 0.2714 Acc:97.63%
+[[ 364.  162.]
+ [ 399. 1422.]]
+0.7609714529186196
+Training: Epoch[038/050]  Loss: 0.2731 Acc:97.63%
+Training: Epoch[039/050]  Loss: 0.2712 Acc:97.63%
+[[ 359.  167.]
+ [ 394. 1427.]]
+0.7609714529186196
+Training: Epoch[040/050]  Loss: 0.2710 Acc:97.63%
+Training: Epoch[041/050]  Loss: 0.2634 Acc:97.74%
+[[ 358.  168.]
+ [ 387. 1434.]]
+0.7635279079676183
+Training: Epoch[042/050]  Loss: 0.2660 Acc:97.74%
+Training: Epoch[043/050]  Loss: 0.2633 Acc:97.85%
+[[ 223.  303.]
+ [ 131. 1690.]]
+0.8150830847890924
+Training: Epoch[044/050]  Loss: 0.6335 Acc:93.76%
+Training: Epoch[045/050]  Loss: 0.6308 Acc:93.65%
+[[ 307.  219.]
+ [ 293. 1528.]]
+0.7818491691521091
+Training: Epoch[046/050]  Loss: 0.2749 Acc:96.99%
+Training: Epoch[047/050]  Loss: 0.2784 Acc:97.74%
+[[ 345.  181.]
+ [ 376. 1445.]]
+0.7626757562846187
+Training: Epoch[048/050]  Loss: 0.2554 Acc:97.74%
+Training: Epoch[049/050]  Loss: 0.2650 Acc:97.74%
+[[ 359.  167.]
+ [ 395. 1426.]]
+0.7605453770771198
+Training: Epoch[050/050]  Loss: 0.2556 Acc:97.74%
+Training: Epoch[001/050]  Loss: 4.7855 Acc:62.00%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[002/050]  Loss: 2.5902 Acc:82.88%
+Training: Epoch[003/050]  Loss: 2.3733 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[004/050]  Loss: 2.2968 Acc:82.88%
+Training: Epoch[005/050]  Loss: 2.2012 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[006/050]  Loss: 2.1203 Acc:82.88%
+Training: Epoch[007/050]  Loss: 2.0601 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[008/050]  Loss: 1.9772 Acc:82.88%
+Training: Epoch[009/050]  Loss: 1.9333 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[010/050]  Loss: 1.8147 Acc:82.88%
+Training: Epoch[011/050]  Loss: 1.7226 Acc:82.88%
+[[   0.  526.]
+ [   0. 1821.]]
+0.775884107371112
+Training: Epoch[012/050]  Loss: 1.5779 Acc:82.88%
+Training: Epoch[013/050]  Loss: 1.4902 Acc:82.88%
+[[1.000e+00 5.250e+02]
+ [0.000e+00 1.821e+03]]
+0.7763101832126118
+Training: Epoch[014/050]  Loss: 1.2876 Acc:82.88%
+Training: Epoch[015/050]  Loss: 1.2066 Acc:84.82%
+[[  51.  475.]
+ [  11. 1810.]]
+0.7929271410311035
+Training: Epoch[016/050]  Loss: 1.0641 Acc:88.59%
+Training: Epoch[017/050]  Loss: 0.8081 Acc:92.68%
+[[ 161.  365.]
+ [  81. 1740.]]
+0.809970174691095
+Training: Epoch[018/050]  Loss: 0.6792 Acc:94.08%
+Training: Epoch[019/050]  Loss: 0.5801 Acc:94.73%
+[[ 233.  293.]
+ [ 138. 1683.]]
+0.8163613123135918
+Training: Epoch[020/050]  Loss: 0.4942 Acc:95.59%
+Training: Epoch[021/050]  Loss: 0.4256 Acc:96.12%
+[[ 267.  259.]
+ [ 212. 1609.]]
+0.7993182786536004
+Training: Epoch[022/050]  Loss: 0.3737 Acc:96.56%
+Training: Epoch[023/050]  Loss: 0.3364 Acc:96.66%
+[[ 294.  232.]
+ [ 279. 1542.]]
+0.7822752449936089
+Training: Epoch[024/050]  Loss: 0.3087 Acc:96.88%
+Training: Epoch[025/050]  Loss: 0.2885 Acc:97.31%
+[[ 328.  198.]
+ [ 330. 1491.]]
+0.7750319556881125
+Training: Epoch[026/050]  Loss: 0.2736 Acc:97.74%
+Training: Epoch[027/050]  Loss: 0.2649 Acc:97.63%
+[[ 357.  169.]
+ [ 384. 1437.]]
+0.7643800596506178
+Training: Epoch[028/050]  Loss: 0.2669 Acc:97.63%
+Training: Epoch[029/050]  Loss: 0.2706 Acc:97.52%
+[[ 361.  165.]
+ [ 390. 1431.]]
+0.7635279079676183
+Training: Epoch[030/050]  Loss: 0.2684 Acc:97.52%
+Training: Epoch[031/050]  Loss: 0.2691 Acc:97.63%
+[[ 362.  164.]
+ [ 393. 1428.]]
+0.7626757562846187
+Training: Epoch[032/050]  Loss: 0.2687 Acc:97.74%
+Training: Epoch[033/050]  Loss: 0.2665 Acc:97.74%
+[[ 360.  166.]
+ [ 391. 1430.]]
+0.7626757562846187
+Training: Epoch[034/050]  Loss: 0.2612 Acc:97.74%
+Training: Epoch[035/050]  Loss: 0.2597 Acc:97.74%
+[[ 360.  166.]
+ [ 387. 1434.]]
+0.7643800596506178
+Training: Epoch[036/050]  Loss: 0.2500 Acc:97.74%
+Training: Epoch[037/050]  Loss: 0.2471 Acc:97.85%
+[[ 347.  179.]
+ [ 372. 1449.]]
+0.7652322113336174
+Training: Epoch[038/050]  Loss: 0.3266 Acc:96.66%
+Training: Epoch[039/050]  Loss: 0.6815 Acc:93.65%
+[[ 247.  279.]
+ [ 161. 1660.]]
+0.8125266297400937
+Training: Epoch[040/050]  Loss: 0.4463 Acc:95.37%
+Training: Epoch[041/050]  Loss: 0.2503 Acc:97.74%
+[[ 382.  144.]
+ [ 457. 1364.]]
+0.7439284192586281
+Training: Epoch[042/050]  Loss: 0.2667 Acc:97.63%
+Training: Epoch[043/050]  Loss: 0.2491 Acc:97.85%
+[[ 379.  147.]
+ [ 440. 1381.]]
+0.749893481039625
+Training: Epoch[044/050]  Loss: 0.2582 Acc:97.85%
+Training: Epoch[045/050]  Loss: 0.2488 Acc:97.85%
+[[ 374.  152.]
+ [ 425. 1396.]]
+0.7541542394546229
+Training: Epoch[046/050]  Loss: 0.2549 Acc:97.85%
+Training: Epoch[047/050]  Loss: 0.2487 Acc:97.85%
+[[ 371.  155.]
+ [ 420. 1401.]]
+0.7550063911376225
+Training: Epoch[048/050]  Loss: 0.2544 Acc:97.85%
+Training: Epoch[049/050]  Loss: 0.2493 Acc:97.85%
+[[ 371.  155.]
+ [ 419. 1402.]]
+0.7554324669791223
+Training: Epoch[050/050]  Loss: 0.2558 Acc:97.85%
+training 1D-CNN classifier for class4
+Training: Epoch[001/050]  Loss: 4.0461 Acc:50.92%
+[[   0.  229.]
+ [   0. 1994.]]
+0.8969860548807917
+Training: Epoch[002/050]  Loss: 2.7146 Acc:77.79%
+Training: Epoch[003/050]  Loss: 2.8050 Acc:77.79%
+[[   0.  229.]
+ [   0. 1994.]]
+0.8969860548807917
+Training: Epoch[004/050]  Loss: 2.6284 Acc:77.79%
+Training: Epoch[005/050]  Loss: 2.5919 Acc:77.79%
+[[   0.  229.]
+ [   0. 1994.]]
+0.8969860548807917
+Training: Epoch[006/050]  Loss: 2.4647 Acc:77.79%
+Training: Epoch[007/050]  Loss: 2.3997 Acc:77.79%
+[[   0.  229.]
+ [   0. 1994.]]
+0.8969860548807917
+Training: Epoch[008/050]  Loss: 2.2528 Acc:77.79%
+Training: Epoch[009/050]  Loss: 2.1978 Acc:77.79%
+[[   0.  229.]
+ [   0. 1994.]]
+0.8969860548807917
+Training: Epoch[010/050]  Loss: 1.9741 Acc:77.79%
+Training: Epoch[011/050]  Loss: 1.9049 Acc:77.79%
+[[   0.  229.]
+ [   0. 1994.]]
+0.8969860548807917
+Training: Epoch[012/050]  Loss: 1.6915 Acc:77.79%
+Training: Epoch[013/050]  Loss: 1.5387 Acc:77.90%
+[[7.000e+00 2.220e+02]
+ [1.000e+00 1.993e+03]]
+0.899685110211426
+Training: Epoch[014/050]  Loss: 1.3585 Acc:77.46%
+Training: Epoch[015/050]  Loss: 1.1421 Acc:85.37%
+[[  97.  132.]
+ [  44. 1950.]]
+0.9208277103013945
+Training: Epoch[016/050]  Loss: 0.9440 Acc:90.79%
+Training: Epoch[017/050]  Loss: 0.7560 Acc:94.15%
+[[ 128.  101.]
+ [  84. 1910.]]
+0.9167791273054431
+Training: Epoch[018/050]  Loss: 0.6040 Acc:95.88%
+Training: Epoch[019/050]  Loss: 0.4771 Acc:96.86%
+[[ 156.   73.]
+ [ 122. 1872.]]
+0.9122807017543859
+Training: Epoch[020/050]  Loss: 0.3835 Acc:97.72%
+Training: Epoch[021/050]  Loss: 0.3146 Acc:98.16%
+[[ 169.   60.]
+ [ 155. 1839.]]
+0.9032838506522717
+Training: Epoch[022/050]  Loss: 0.2675 Acc:98.16%
+Training: Epoch[023/050]  Loss: 0.2349 Acc:98.48%
+[[ 175.   54.]
+ [ 167. 1827.]]
+0.9005847953216374
+Training: Epoch[024/050]  Loss: 0.2116 Acc:98.70%
+Training: Epoch[025/050]  Loss: 0.1947 Acc:98.92%
+[[ 176.   53.]
+ [ 178. 1816.]]
+0.8960863697705803
+Training: Epoch[026/050]  Loss: 0.1822 Acc:98.92%
+Training: Epoch[027/050]  Loss: 0.1725 Acc:99.02%
+[[ 179.   50.]
+ [ 186. 1808.]]
+0.8938371569950517
+Training: Epoch[028/050]  Loss: 0.1646 Acc:99.02%
+Training: Epoch[029/050]  Loss: 0.1581 Acc:98.92%
+[[ 181.   48.]
+ [ 202. 1792.]]
+0.8875393612235718
+Training: Epoch[030/050]  Loss: 0.1530 Acc:98.81%
+Training: Epoch[031/050]  Loss: 0.1521 Acc:98.59%
+[[ 183.   46.]
+ [ 222. 1772.]]
+0.8794421952316689
+Training: Epoch[032/050]  Loss: 0.1582 Acc:98.59%
+Training: Epoch[033/050]  Loss: 0.1545 Acc:98.59%
+[[ 183.   46.]
+ [ 220. 1774.]]
+0.8803418803418803
+Training: Epoch[034/050]  Loss: 0.1594 Acc:98.59%
+Training: Epoch[035/050]  Loss: 0.1529 Acc:98.59%
+[[ 182.   47.]
+ [ 216. 1778.]]
+0.8816914080071975
+Training: Epoch[036/050]  Loss: 0.1602 Acc:98.59%
+Training: Epoch[037/050]  Loss: 0.1496 Acc:98.70%
+[[ 182.   47.]
+ [ 214. 1780.]]
+0.8825910931174089
+Training: Epoch[038/050]  Loss: 0.1610 Acc:98.59%
+Training: Epoch[039/050]  Loss: 0.1460 Acc:98.81%
+[[ 182.   47.]
+ [ 212. 1782.]]
+0.8834907782276203
+Training: Epoch[040/050]  Loss: 0.1609 Acc:98.59%
+Training: Epoch[041/050]  Loss: 0.1461 Acc:98.81%
+[[ 181.   48.]
+ [ 210. 1784.]]
+0.8839406207827261
+Training: Epoch[042/050]  Loss: 0.1616 Acc:98.59%
+Training: Epoch[043/050]  Loss: 0.1407 Acc:98.81%
+[[ 181.   48.]
+ [ 208. 1786.]]
+0.8848403058929375
+Training: Epoch[044/050]  Loss: 0.1567 Acc:98.70%
+Training: Epoch[045/050]  Loss: 0.1496 Acc:98.81%
+[[ 180.   49.]
+ [ 207. 1787.]]
+0.8848403058929375
+Training: Epoch[046/050]  Loss: 0.1542 Acc:98.81%
+Training: Epoch[047/050]  Loss: 0.1438 Acc:98.70%
+[[ 180.   49.]
+ [ 205. 1789.]]
+0.8857399910031489
+Training: Epoch[048/050]  Loss: 0.1549 Acc:98.81%
+Training: Epoch[049/050]  Loss: 0.1404 Acc:98.70%
+[[ 180.   49.]
+ [ 206. 1788.]]
+0.8852901484480432
+Training: Epoch[050/050]  Loss: 0.1554 Acc:98.81%
+Training: Epoch[001/050]  Loss: 5.6172 Acc:66.85%
+[[   0.  229.]
+ [   0. 1994.]]
+0.8969860548807917
+Training: Epoch[002/050]  Loss: 3.0696 Acc:58.94%
+Training: Epoch[003/050]  Loss: 2.6943 Acc:77.79%
+[[   0.  229.]
+ [   0. 1994.]]
+0.8969860548807917
+Training: Epoch[004/050]  Loss: 2.5667 Acc:71.51%
+Training: Epoch[005/050]  Loss: 2.4378 Acc:77.79%
+[[   0.  229.]
+ [   0. 1994.]]
+0.8969860548807917
+Training: Epoch[006/050]  Loss: 2.2474 Acc:77.90%
+Training: Epoch[007/050]  Loss: 2.0825 Acc:77.90%
+[[   0.  229.]
+ [   0. 1994.]]
+0.8969860548807917
+Training: Epoch[008/050]  Loss: 1.8937 Acc:77.36%
+Training: Epoch[009/050]  Loss: 1.7156 Acc:76.60%
+[[   4.  225.]
+ [   0. 1994.]]
+0.8987854251012146
+Training: Epoch[010/050]  Loss: 1.5084 Acc:77.14%
+Training: Epoch[011/050]  Loss: 1.2874 Acc:83.86%
+[[  66.  163.]
+ [  18. 1976.]]
+0.918578497525866
+Training: Epoch[012/050]  Loss: 1.0605 Acc:88.84%
+Training: Epoch[013/050]  Loss: 0.8724 Acc:92.31%
+[[  96.  133.]
+ [  43. 1951.]]
+0.9208277103013945
+Training: Epoch[014/050]  Loss: 0.6738 Acc:94.91%
+Training: Epoch[015/050]  Loss: 0.5049 Acc:96.42%
+[[ 125.  104.]
+ [  86. 1908.]]
+0.9145299145299145
+Training: Epoch[016/050]  Loss: 0.4044 Acc:97.07%
+Training: Epoch[017/050]  Loss: 0.3351 Acc:97.51%
+[[ 141.   88.]
+ [ 105. 1889.]]
+0.9131803868645973
+Training: Epoch[018/050]  Loss: 0.2854 Acc:97.72%
+Training: Epoch[019/050]  Loss: 0.2512 Acc:97.83%
+[[ 154.   75.]
+ [ 128. 1866.]]
+0.9086819613135403
+Training: Epoch[020/050]  Loss: 0.2262 Acc:98.16%
+Training: Epoch[021/050]  Loss: 0.2081 Acc:98.16%
+[[ 164.   65.]
+ [ 141. 1853.]]
+0.9073324336482231
+Training: Epoch[022/050]  Loss: 0.1960 Acc:98.27%
+Training: Epoch[023/050]  Loss: 0.1887 Acc:98.27%
+[[ 165.   64.]
+ [ 147. 1847.]]
+0.9050832208726945
+Training: Epoch[024/050]  Loss: 0.1872 Acc:98.27%
+Training: Epoch[025/050]  Loss: 0.1970 Acc:98.16%
+[[ 153.   76.]
+ [ 126. 1868.]]
+0.909131803868646
+Training: Epoch[026/050]  Loss: 0.2399 Acc:97.83%
+Training: Epoch[027/050]  Loss: 0.3554 Acc:96.32%
+[[ 123.  106.]
+ [  82. 1912.]]
+0.9154295996401259
+Training: Epoch[028/050]  Loss: 0.4253 Acc:95.88%
+Training: Epoch[029/050]  Loss: 0.2559 Acc:97.51%
+[[ 176.   53.]
+ [ 177. 1817.]]
+0.896536212325686
+Training: Epoch[030/050]  Loss: 0.1415 Acc:98.70%
+Training: Epoch[031/050]  Loss: 0.1414 Acc:98.70%
+[[ 177.   52.]
+ [ 186. 1808.]]
+0.8929374718848403
+Training: Epoch[032/050]  Loss: 0.1403 Acc:98.81%
+Training: Epoch[033/050]  Loss: 0.1404 Acc:98.70%
+[[ 178.   51.]
+ [ 189. 1805.]]
+0.8920377867746289
+Training: Epoch[034/050]  Loss: 0.1400 Acc:98.81%
+Training: Epoch[035/050]  Loss: 0.1401 Acc:98.70%
+[[ 178.   51.]
+ [ 190. 1804.]]
+0.8915879442195231
+Training: Epoch[036/050]  Loss: 0.1401 Acc:98.81%
+Training: Epoch[037/050]  Loss: 0.1405 Acc:98.81%
+[[ 178.   51.]
+ [ 191. 1803.]]
+0.8911381016644174
+Training: Epoch[038/050]  Loss: 0.1411 Acc:98.81%
+Training: Epoch[039/050]  Loss: 0.1418 Acc:98.70%
+[[ 178.   51.]
+ [ 191. 1803.]]
+0.8911381016644174
+Training: Epoch[040/050]  Loss: 0.1426 Acc:98.70%
+Training: Epoch[041/050]  Loss: 0.1434 Acc:98.70%
+[[ 177.   52.]
+ [ 190. 1804.]]
+0.8911381016644174
+Training: Epoch[042/050]  Loss: 0.1436 Acc:98.70%
+Training: Epoch[043/050]  Loss: 0.1440 Acc:98.70%
+[[ 177.   52.]
+ [ 190. 1804.]]
+0.8911381016644174
+Training: Epoch[044/050]  Loss: 0.1447 Acc:98.70%
+Training: Epoch[045/050]  Loss: 0.1448 Acc:98.70%
+[[ 177.   52.]
+ [ 188. 1806.]]
+0.8920377867746289
+Training: Epoch[046/050]  Loss: 0.1445 Acc:98.70%
+Training: Epoch[047/050]  Loss: 0.1444 Acc:98.70%
+[[ 177.   52.]
+ [ 189. 1805.]]
+0.8915879442195231
+Training: Epoch[048/050]  Loss: 0.1448 Acc:98.81%
+Training: Epoch[049/050]  Loss: 0.1427 Acc:98.81%
+[[ 177.   52.]
+ [ 189. 1805.]]
+0.8915879442195231
+Training: Epoch[050/050]  Loss: 0.1452 Acc:98.81%
+training 1D-CNN classifier for class5
+Training: Epoch[001/050]  Loss: 3.5072 Acc:60.15%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[002/050]  Loss: 3.5021 Acc:83.12%
+Training: Epoch[003/050]  Loss: 3.0271 Acc:83.12%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[004/050]  Loss: 2.8188 Acc:83.12%
+Training: Epoch[005/050]  Loss: 2.6696 Acc:83.12%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[006/050]  Loss: 2.5396 Acc:83.12%
+Training: Epoch[007/050]  Loss: 2.4398 Acc:83.12%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[008/050]  Loss: 2.3312 Acc:83.12%
+Training: Epoch[009/050]  Loss: 2.2208 Acc:83.12%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[010/050]  Loss: 2.1102 Acc:83.12%
+Training: Epoch[011/050]  Loss: 1.9346 Acc:83.12%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[012/050]  Loss: 1.7138 Acc:83.12%
+Training: Epoch[013/050]  Loss: 1.5544 Acc:83.12%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[014/050]  Loss: 1.2415 Acc:83.12%
+Training: Epoch[015/050]  Loss: 1.0454 Acc:90.77%
+[[ 108.  632.]
+ [  19. 1932.]]
+0.758082497212932
+Training: Epoch[016/050]  Loss: 0.9387 Acc:92.62%
+Training: Epoch[017/050]  Loss: 0.6645 Acc:95.30%
+[[ 303.  437.]
+ [  76. 1875.]]
+0.8093645484949833
+Training: Epoch[018/050]  Loss: 0.4916 Acc:96.77%
+Training: Epoch[019/050]  Loss: 0.3730 Acc:97.51%
+[[ 391.  349.]
+ [ 139. 1812.]]
+0.8186547751765143
+Training: Epoch[020/050]  Loss: 0.3033 Acc:97.97%
+Training: Epoch[021/050]  Loss: 0.2587 Acc:98.25%
+[[ 446.  294.]
+ [ 176. 1775.]]
+0.8253437383872166
+Training: Epoch[022/050]  Loss: 0.2288 Acc:98.43%
+Training: Epoch[023/050]  Loss: 0.2107 Acc:98.62%
+[[ 476.  264.]
+ [ 200. 1751.]]
+0.8275733927907841
+Training: Epoch[024/050]  Loss: 0.1992 Acc:98.71%
+Training: Epoch[025/050]  Loss: 0.1939 Acc:98.80%
+[[ 478.  262.]
+ [ 209. 1742.]]
+0.8249721293199554
+Training: Epoch[026/050]  Loss: 0.1967 Acc:98.80%
+Training: Epoch[027/050]  Loss: 0.2288 Acc:98.43%
+[[ 383.  357.]
+ [ 136. 1815.]]
+0.8167967298402081
+Training: Epoch[028/050]  Loss: 0.3525 Acc:97.05%
+Training: Epoch[029/050]  Loss: 0.4417 Acc:96.03%
+[[ 380.  360.]
+ [ 132. 1819.]]
+0.8171683389074693
+Training: Epoch[030/050]  Loss: 0.2861 Acc:97.88%
+Training: Epoch[031/050]  Loss: 0.1703 Acc:98.99%
+[[ 535.  205.]
+ [ 309. 1642.]]
+0.808992939427722
+Training: Epoch[032/050]  Loss: 0.1741 Acc:98.99%
+Training: Epoch[033/050]  Loss: 0.1695 Acc:98.99%
+[[ 527.  213.]
+ [ 295. 1656.]]
+0.8112225938312895
+Training: Epoch[034/050]  Loss: 0.1713 Acc:98.99%
+Training: Epoch[035/050]  Loss: 0.1696 Acc:98.99%
+[[ 525.  215.]
+ [ 292. 1659.]]
+0.8115942028985508
+Training: Epoch[036/050]  Loss: 0.1710 Acc:98.99%
+Training: Epoch[037/050]  Loss: 0.1702 Acc:98.99%
+[[ 525.  215.]
+ [ 289. 1662.]]
+0.8127090301003345
+Training: Epoch[038/050]  Loss: 0.1720 Acc:98.99%
+Training: Epoch[039/050]  Loss: 0.1716 Acc:98.99%
+[[ 525.  215.]
+ [ 286. 1665.]]
+0.8138238573021181
+Training: Epoch[040/050]  Loss: 0.1733 Acc:98.99%
+Training: Epoch[041/050]  Loss: 0.1726 Acc:98.99%
+[[ 524.  216.]
+ [ 283. 1668.]]
+0.8145670754366406
+Training: Epoch[042/050]  Loss: 0.1734 Acc:98.99%
+Training: Epoch[043/050]  Loss: 0.1726 Acc:98.99%
+[[ 524.  216.]
+ [ 282. 1669.]]
+0.8149386845039019
+Training: Epoch[044/050]  Loss: 0.1727 Acc:98.99%
+Training: Epoch[045/050]  Loss: 0.1723 Acc:98.99%
+[[ 524.  216.]
+ [ 282. 1669.]]
+0.8149386845039019
+Training: Epoch[046/050]  Loss: 0.1719 Acc:98.99%
+Training: Epoch[047/050]  Loss: 0.1705 Acc:98.99%
+[[ 524.  216.]
+ [ 283. 1668.]]
+0.8145670754366406
+Training: Epoch[048/050]  Loss: 0.1704 Acc:98.99%
+Training: Epoch[049/050]  Loss: 0.1699 Acc:98.99%
+[[ 524.  216.]
+ [ 285. 1666.]]
+0.8138238573021181
+Training: Epoch[050/050]  Loss: 0.1693 Acc:98.99%
+Training: Epoch[001/050]  Loss: 4.6341 Acc:59.78%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[002/050]  Loss: 3.0512 Acc:83.12%
+Training: Epoch[003/050]  Loss: 2.8946 Acc:83.12%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[004/050]  Loss: 2.8209 Acc:83.12%
+Training: Epoch[005/050]  Loss: 2.6836 Acc:83.12%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[006/050]  Loss: 2.6973 Acc:83.12%
+Training: Epoch[007/050]  Loss: 2.5202 Acc:83.12%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[008/050]  Loss: 2.4453 Acc:83.12%
+Training: Epoch[009/050]  Loss: 2.4480 Acc:83.12%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[010/050]  Loss: 2.1304 Acc:83.12%
+Training: Epoch[011/050]  Loss: 2.1568 Acc:83.12%
+[[   0.  740.]
+ [   0. 1951.]]
+0.7250092902266815
+Training: Epoch[012/050]  Loss: 1.7516 Acc:83.12%
+Training: Epoch[013/050]  Loss: 1.6296 Acc:83.12%
+[[1.000e+00 7.390e+02]
+ [0.000e+00 1.951e+03]]
+0.7253808992939428
+Training: Epoch[014/050]  Loss: 1.2902 Acc:84.87%
+Training: Epoch[015/050]  Loss: 1.0095 Acc:92.53%
+[[ 137.  603.]
+ [  28. 1923.]]
+0.7655146785581568
+Training: Epoch[016/050]  Loss: 0.7631 Acc:94.56%
+Training: Epoch[017/050]  Loss: 0.5816 Acc:96.13%
+[[ 274.  466.]
+ [  69. 1882.]]
+0.801189149015236
+Training: Epoch[018/050]  Loss: 0.4529 Acc:96.86%
+Training: Epoch[019/050]  Loss: 0.3692 Acc:97.60%
+[[ 348.  392.]
+ [ 110. 1841.]]
+0.813452248234857
+Training: Epoch[020/050]  Loss: 0.3165 Acc:97.79%
+Training: Epoch[021/050]  Loss: 0.2820 Acc:97.88%
+[[ 388.  352.]
+ [ 139. 1812.]]
+0.8175399479747306
+Training: Epoch[022/050]  Loss: 0.2605 Acc:98.15%
+Training: Epoch[023/050]  Loss: 0.2470 Acc:98.34%
+[[ 404.  336.]
+ [ 150. 1801.]]
+0.8193979933110368
+Training: Epoch[024/050]  Loss: 0.2410 Acc:98.34%
+Training: Epoch[025/050]  Loss: 0.2428 Acc:98.34%
+[[ 399.  341.]
+ [ 150. 1801.]]
+0.8175399479747306
+Training: Epoch[026/050]  Loss: 0.2508 Acc:98.25%
+Training: Epoch[027/050]  Loss: 0.2602 Acc:98.06%
+[[ 392.  348.]
+ [ 142. 1809.]]
+0.8179115570419918
+Training: Epoch[028/050]  Loss: 0.2598 Acc:98.06%
+Training: Epoch[029/050]  Loss: 0.2381 Acc:98.34%
+[[ 441.  299.]
+ [ 172. 1779.]]
+0.8249721293199554
+Training: Epoch[030/050]  Loss: 0.2008 Acc:98.43%
+Training: Epoch[031/050]  Loss: 0.1736 Acc:98.99%
+[[ 516.  224.]
+ [ 277. 1674.]]
+0.8138238573021181
+Training: Epoch[032/050]  Loss: 0.1743 Acc:98.89%
+Training: Epoch[033/050]  Loss: 0.1714 Acc:99.17%
+[[ 514.  226.]
+ [ 269. 1682.]]
+0.8160535117056856
+Training: Epoch[034/050]  Loss: 0.1724 Acc:99.08%
+Training: Epoch[035/050]  Loss: 0.1712 Acc:99.17%
+[[ 513.  227.]
+ [ 269. 1682.]]
+0.8156819026384243
+Training: Epoch[036/050]  Loss: 0.1712 Acc:99.17%
+Training: Epoch[037/050]  Loss: 0.1710 Acc:99.17%
+[[ 514.  226.]
+ [ 269. 1682.]]
+0.8160535117056856
+Training: Epoch[038/050]  Loss: 0.1705 Acc:99.17%
+Training: Epoch[039/050]  Loss: 0.1701 Acc:99.17%
+[[ 514.  226.]
+ [ 269. 1682.]]
+0.8160535117056856
+Training: Epoch[040/050]  Loss: 0.1694 Acc:99.17%
+Training: Epoch[041/050]  Loss: 0.1687 Acc:99.17%
+[[ 514.  226.]
+ [ 272. 1679.]]
+0.8149386845039019
+Training: Epoch[042/050]  Loss: 0.1679 Acc:99.17%
+Training: Epoch[043/050]  Loss: 0.1668 Acc:99.17%
+[[ 515.  225.]
+ [ 275. 1676.]]
+0.8141954663693795
+Training: Epoch[044/050]  Loss: 0.1661 Acc:99.17%
+Training: Epoch[045/050]  Loss: 0.1645 Acc:99.17%
+[[ 517.  223.]
+ [ 278. 1673.]]
+0.8138238573021181
+Training: Epoch[046/050]  Loss: 0.1659 Acc:99.17%
+Training: Epoch[047/050]  Loss: 0.1608 Acc:99.17%
+[[ 442.  298.]
+ [ 171. 1780.]]
+0.8257153474544779
+Training: Epoch[048/050]  Loss: 0.2939 Acc:97.32%
+Training: Epoch[049/050]  Loss: 0.3601 Acc:97.05%
+[[ 460.  280.]
+ [ 183. 1768.]]
+0.8279450018580453
+Training: Epoch[050/050]  Loss: 0.1813 Acc:98.62%
+training 1D-CNN classifier for class6
+Training: Epoch[001/050]  Loss: 4.1538 Acc:54.93%
+[[   0.  122.]
+ [   0. 2216.]]
+0.9478186484174508
+Training: Epoch[002/050]  Loss: 2.8864 Acc:81.87%
+Training: Epoch[003/050]  Loss: 2.3087 Acc:81.87%
+[[   0.  122.]
+ [   0. 2216.]]
+0.9478186484174508
+Training: Epoch[004/050]  Loss: 2.1790 Acc:81.87%
+Training: Epoch[005/050]  Loss: 2.0543 Acc:81.87%
+[[   0.  122.]
+ [   0. 2216.]]
+0.9478186484174508
+Training: Epoch[006/050]  Loss: 1.9168 Acc:81.87%
+Training: Epoch[007/050]  Loss: 1.7634 Acc:81.87%
+[[   0.  122.]
+ [   0. 2216.]]
+0.9478186484174508
+Training: Epoch[008/050]  Loss: 1.5807 Acc:81.87%
+Training: Epoch[009/050]  Loss: 1.4606 Acc:81.76%
+[[   0.  122.]
+ [   0. 2216.]]
+0.9478186484174508
+Training: Epoch[010/050]  Loss: 1.1270 Acc:81.76%
+Training: Epoch[011/050]  Loss: 0.8732 Acc:91.83%
+[[5.000e+00 1.170e+02]
+ [2.000e+00 2.214e+03]]
+0.9491017964071856
+Training: Epoch[012/050]  Loss: 0.6406 Acc:96.29%
+Training: Epoch[013/050]  Loss: 0.4309 Acc:97.88%
+[[  24.   98.]
+ [  18. 2198.]]
+0.9503849443969205
+Training: Epoch[014/050]  Loss: 0.2876 Acc:98.62%
+Training: Epoch[015/050]  Loss: 0.2044 Acc:98.94%
+[[  39.   83.]
+ [  42. 2174.]]
+0.946535500427716
+Training: Epoch[016/050]  Loss: 0.1594 Acc:99.26%
+Training: Epoch[017/050]  Loss: 0.1335 Acc:99.47%
+[[  49.   73.]
+ [  54. 2162.]]
+0.9456800684345594
+Training: Epoch[018/050]  Loss: 0.1177 Acc:99.47%
+Training: Epoch[019/050]  Loss: 0.1076 Acc:99.47%
+[[  54.   68.]
+ [  58. 2158.]]
+0.9461077844311377
+Training: Epoch[020/050]  Loss: 0.1011 Acc:99.47%
+Training: Epoch[021/050]  Loss: 0.0973 Acc:99.47%
+[[  54.   68.]
+ [  59. 2157.]]
+0.9456800684345594
+Training: Epoch[022/050]  Loss: 0.0966 Acc:99.36%
+Training: Epoch[023/050]  Loss: 0.1002 Acc:99.36%
+[[  46.   76.]
+ [  51. 2165.]]
+0.9456800684345594
+Training: Epoch[024/050]  Loss: 0.1131 Acc:99.36%
+Training: Epoch[025/050]  Loss: 0.1473 Acc:99.05%
+[[  27.   95.]
+ [  22. 2194.]]
+0.9499572284003421
+Training: Epoch[026/050]  Loss: 0.1982 Acc:98.20%
+Training: Epoch[027/050]  Loss: 0.1892 Acc:98.41%
+[[  40.   82.]
+ [  45. 2171.]]
+0.9456800684345594
+Training: Epoch[028/050]  Loss: 0.0960 Acc:99.36%
+Training: Epoch[029/050]  Loss: 0.0655 Acc:99.36%
+[[  56.   66.]
+ [  68. 2148.]]
+0.9426860564585116
+Training: Epoch[030/050]  Loss: 0.0711 Acc:99.36%
+Training: Epoch[031/050]  Loss: 0.0652 Acc:99.36%
+[[  58.   64.]
+ [  75. 2141.]]
+0.9405474764756202
+Training: Epoch[032/050]  Loss: 0.0685 Acc:99.47%
+Training: Epoch[033/050]  Loss: 0.0649 Acc:99.36%
+[[  60.   62.]
+ [  78. 2138.]]
+0.9401197604790419
+Training: Epoch[034/050]  Loss: 0.0677 Acc:99.47%
+Training: Epoch[035/050]  Loss: 0.0655 Acc:99.36%
+[[  62.   60.]
+ [  79. 2137.]]
+0.9405474764756202
+Training: Epoch[036/050]  Loss: 0.0676 Acc:99.47%
+Training: Epoch[037/050]  Loss: 0.0691 Acc:99.47%
+[[  60.   62.]
+ [  74. 2142.]]
+0.941830624465355
+Training: Epoch[038/050]  Loss: 0.0750 Acc:99.26%
+Training: Epoch[039/050]  Loss: 0.0968 Acc:99.36%
+[[  38.   84.]
+ [  39. 2177.]]
+0.9473909324208726
+Training: Epoch[040/050]  Loss: 0.1531 Acc:98.83%
+Training: Epoch[041/050]  Loss: 0.1983 Acc:98.20%
+[[  33.   89.]
+ [  33. 2183.]]
+0.9478186484174508
+Training: Epoch[042/050]  Loss: 0.1284 Acc:99.05%
+Training: Epoch[043/050]  Loss: 0.0613 Acc:99.36%
+[[  61.   61.]
+ [  79. 2137.]]
+0.9401197604790419
+Training: Epoch[044/050]  Loss: 0.0632 Acc:99.47%
+Training: Epoch[045/050]  Loss: 0.0608 Acc:99.36%
+[[  61.   61.]
+ [  80. 2136.]]
+0.9396920444824637
+Training: Epoch[046/050]  Loss: 0.0628 Acc:99.47%
+Training: Epoch[047/050]  Loss: 0.0602 Acc:99.36%
+[[  61.   61.]
+ [  79. 2137.]]
+0.9401197604790419
+Training: Epoch[048/050]  Loss: 0.0630 Acc:99.47%
+Training: Epoch[049/050]  Loss: 0.0595 Acc:99.36%
+[[  60.   62.]
+ [  77. 2139.]]
+0.9405474764756202
+Training: Epoch[050/050]  Loss: 0.0645 Acc:99.47%
+Training: Epoch[001/050]  Loss: 3.5500 Acc:62.57%
+[[   0.  122.]
+ [   0. 2216.]]
+0.9478186484174508
+Training: Epoch[002/050]  Loss: 2.3448 Acc:81.87%
+Training: Epoch[003/050]  Loss: 2.3651 Acc:81.87%
+[[   0.  122.]
+ [   0. 2216.]]
+0.9478186484174508
+Training: Epoch[004/050]  Loss: 2.3011 Acc:81.87%
+Training: Epoch[005/050]  Loss: 2.1470 Acc:81.87%
+[[   0.  122.]
+ [   0. 2216.]]
+0.9478186484174508
+Training: Epoch[006/050]  Loss: 1.9950 Acc:81.87%
+Training: Epoch[007/050]  Loss: 1.8160 Acc:81.87%
+[[   0.  122.]
+ [   0. 2216.]]
+0.9478186484174508
+Training: Epoch[008/050]  Loss: 1.6069 Acc:81.87%
+Training: Epoch[009/050]  Loss: 1.3510 Acc:81.76%
+[[   0.  122.]
+ [   0. 2216.]]
+0.9478186484174508
+Training: Epoch[010/050]  Loss: 1.0517 Acc:86.96%
+Training: Epoch[011/050]  Loss: 0.7741 Acc:94.80%
+[[   8.  114.]
+ [   3. 2213.]]
+0.9499572284003421
+Training: Epoch[012/050]  Loss: 0.5309 Acc:97.35%
+Training: Epoch[013/050]  Loss: 0.3672 Acc:98.30%
+[[  18.  104.]
+ [  17. 2199.]]
+0.9482463644140291
+Training: Epoch[014/050]  Loss: 0.2714 Acc:98.62%
+Training: Epoch[015/050]  Loss: 0.2129 Acc:98.94%
+[[  29.   93.]
+ [  32. 2184.]]
+0.946535500427716
+Training: Epoch[016/050]  Loss: 0.1753 Acc:99.15%
+Training: Epoch[017/050]  Loss: 0.1510 Acc:99.15%
+[[  39.   83.]
+ [  39. 2177.]]
+0.9478186484174508
+Training: Epoch[018/050]  Loss: 0.1343 Acc:99.36%
+Training: Epoch[019/050]  Loss: 0.1225 Acc:99.36%
+[[  43.   79.]
+ [  44. 2172.]]
+0.9473909324208726
+Training: Epoch[020/050]  Loss: 0.1139 Acc:99.47%
+Training: Epoch[021/050]  Loss: 0.1077 Acc:99.58%
+[[  43.   79.]
+ [  49. 2167.]]
+0.9452523524379812
+Training: Epoch[022/050]  Loss: 0.1032 Acc:99.58%
+Training: Epoch[023/050]  Loss: 0.1002 Acc:99.58%
+[[  43.   79.]
+ [  49. 2167.]]
+0.9452523524379812
+Training: Epoch[024/050]  Loss: 0.0985 Acc:99.58%
+Training: Epoch[025/050]  Loss: 0.0978 Acc:99.47%
+[[  43.   79.]
+ [  49. 2167.]]
+0.9452523524379812
+Training: Epoch[026/050]  Loss: 0.0978 Acc:99.47%
+Training: Epoch[027/050]  Loss: 0.0977 Acc:99.47%
+[[  43.   79.]
+ [  48. 2168.]]
+0.9456800684345594
+Training: Epoch[028/050]  Loss: 0.0971 Acc:99.47%
+Training: Epoch[029/050]  Loss: 0.0951 Acc:99.47%
+[[  45.   77.]
+ [  50. 2166.]]
+0.9456800684345594
+Training: Epoch[030/050]  Loss: 0.0910 Acc:99.47%
+Training: Epoch[031/050]  Loss: 0.0852 Acc:99.47%
+[[  53.   69.]
+ [  59. 2157.]]
+0.9452523524379812
+Training: Epoch[032/050]  Loss: 0.0787 Acc:99.36%
+Training: Epoch[033/050]  Loss: 0.0735 Acc:99.47%
+[[  60.   62.]
+ [  71. 2145.]]
+0.9431137724550899
+Training: Epoch[034/050]  Loss: 0.0707 Acc:99.47%
+Training: Epoch[035/050]  Loss: 0.0700 Acc:99.47%
+[[  60.   62.]
+ [  73. 2143.]]
+0.9422583404619332
+Training: Epoch[036/050]  Loss: 0.0710 Acc:99.47%
+Training: Epoch[037/050]  Loss: 0.0742 Acc:99.36%
+[[  53.   69.]
+ [  62. 2154.]]
+0.9439692044482464
+Training: Epoch[038/050]  Loss: 0.0827 Acc:99.36%
+Training: Epoch[039/050]  Loss: 0.1024 Acc:99.47%
+[[  40.   82.]
+ [  40. 2176.]]
+0.9478186484174508
+Training: Epoch[040/050]  Loss: 0.1288 Acc:99.05%
+Training: Epoch[041/050]  Loss: 0.1298 Acc:99.05%
+[[  44.   78.]
+ [  47. 2169.]]
+0.946535500427716
+Training: Epoch[042/050]  Loss: 0.0878 Acc:99.47%
+Training: Epoch[043/050]  Loss: 0.0610 Acc:99.36%
+[[  60.   62.]
+ [  73. 2143.]]
+0.9422583404619332
+Training: Epoch[044/050]  Loss: 0.0657 Acc:99.58%
+Training: Epoch[045/050]  Loss: 0.0605 Acc:99.36%
+[[  60.   62.]
+ [  71. 2145.]]
+0.9431137724550899
+Training: Epoch[046/050]  Loss: 0.0668 Acc:99.47%
+Training: Epoch[047/050]  Loss: 0.0600 Acc:99.36%
+[[  58.   64.]
+ [  70. 2146.]]
+0.9426860564585116
+Training: Epoch[048/050]  Loss: 0.0684 Acc:99.47%
+Training: Epoch[049/050]  Loss: 0.0596 Acc:99.36%
+[[  61.   61.]
+ [  70. 2146.]]
+0.9439692044482464
+Training: Epoch[050/050]  Loss: 0.0674 Acc:99.47%
+training 1D-CNN classifier for class7
+Training: Epoch[001/050]  Loss: 4.0434 Acc:66.00%
+[[   0.  272.]
+ [   0. 2356.]]
+0.8964992389649924
+Training: Epoch[002/050]  Loss: 2.5557 Acc:85.25%
+Training: Epoch[003/050]  Loss: 2.4083 Acc:85.25%
+[[   0.  272.]
+ [   0. 2356.]]
+0.8964992389649924
+Training: Epoch[004/050]  Loss: 2.3283 Acc:85.25%
+Training: Epoch[005/050]  Loss: 2.2545 Acc:85.25%
+[[   0.  272.]
+ [   0. 2356.]]
+0.8964992389649924
+Training: Epoch[006/050]  Loss: 2.1575 Acc:85.25%
+Training: Epoch[007/050]  Loss: 2.0465 Acc:85.25%
+[[   0.  272.]
+ [   0. 2356.]]
+0.8964992389649924
+Training: Epoch[008/050]  Loss: 1.9521 Acc:85.25%
+Training: Epoch[009/050]  Loss: 1.7578 Acc:85.25%
+[[   0.  272.]
+ [   0. 2356.]]
+0.8964992389649924
+Training: Epoch[010/050]  Loss: 1.5642 Acc:85.25%
+Training: Epoch[011/050]  Loss: 1.3239 Acc:85.25%
+[[   0.  272.]
+ [   0. 2356.]]
+0.8964992389649924
+Training: Epoch[012/050]  Loss: 1.0820 Acc:86.21%
+Training: Epoch[013/050]  Loss: 0.8071 Acc:93.01%
+[[  49.  223.]
+ [   9. 2347.]]
+0.9117199391171994
+Training: Epoch[014/050]  Loss: 0.5886 Acc:95.98%
+Training: Epoch[015/050]  Loss: 0.4310 Acc:97.32%
+[[ 103.  169.]
+ [  38. 2318.]]
+0.9212328767123288
+Training: Epoch[016/050]  Loss: 0.3231 Acc:98.08%
+Training: Epoch[017/050]  Loss: 0.2515 Acc:98.28%
+[[ 124.  148.]
+ [  58. 2298.]]
+0.921613394216134
+Training: Epoch[018/050]  Loss: 0.2037 Acc:98.66%
+Training: Epoch[019/050]  Loss: 0.1722 Acc:99.14%
+[[ 136.  136.]
+ [  70. 2286.]]
+0.921613394216134
+Training: Epoch[020/050]  Loss: 0.1505 Acc:99.23%
+Training: Epoch[021/050]  Loss: 0.1359 Acc:99.14%
+[[ 145.  127.]
+ [  76. 2280.]]
+0.9227549467275494
+Training: Epoch[022/050]  Loss: 0.1261 Acc:99.23%
+Training: Epoch[023/050]  Loss: 0.1207 Acc:99.23%
+[[ 145.  127.]
+ [  76. 2280.]]
+0.9227549467275494
+Training: Epoch[024/050]  Loss: 0.1207 Acc:99.23%
+Training: Epoch[025/050]  Loss: 0.1338 Acc:99.14%
+[[ 132.  140.]
+ [  64. 2292.]]
+0.9223744292237442
+Training: Epoch[026/050]  Loss: 0.1771 Acc:98.95%
+Training: Epoch[027/050]  Loss: 0.2178 Acc:97.99%
+[[ 126.  146.]
+ [  60. 2296.]]
+0.921613394216134
+Training: Epoch[028/050]  Loss: 0.1504 Acc:98.75%
+Training: Epoch[029/050]  Loss: 0.0819 Acc:99.04%
+[[ 150.  122.]
+ [  89. 2267.]]
+0.919710806697108
+Training: Epoch[030/050]  Loss: 0.0845 Acc:99.14%
+Training: Epoch[031/050]  Loss: 0.0799 Acc:98.95%
+[[ 144.  128.]
+ [  77. 2279.]]
+0.9219939117199392
+Training: Epoch[032/050]  Loss: 0.0973 Acc:99.23%
+Training: Epoch[033/050]  Loss: 0.0802 Acc:99.04%
+[[ 127.  145.]
+ [  62. 2294.]]
+0.9212328767123288
+Training: Epoch[034/050]  Loss: 0.1382 Acc:98.95%
+Training: Epoch[035/050]  Loss: 0.0783 Acc:99.14%
+[[ 141.  131.]
+ [  71. 2285.]]
+0.9231354642313546
+Training: Epoch[036/050]  Loss: 0.0996 Acc:99.23%
+Training: Epoch[037/050]  Loss: 0.0823 Acc:98.85%
+[[ 119.  153.]
+ [  56. 2300.]]
+0.9204718417047184
+Training: Epoch[038/050]  Loss: 0.1553 Acc:98.66%
+Training: Epoch[039/050]  Loss: 0.0886 Acc:98.85%
+[[ 122.  150.]
+ [  59. 2297.]]
+0.9204718417047184
+Training: Epoch[040/050]  Loss: 0.1348 Acc:98.66%
+Training: Epoch[041/050]  Loss: 0.0949 Acc:98.95%
+[[ 122.  150.]
+ [  59. 2297.]]
+0.9204718417047184
+Training: Epoch[042/050]  Loss: 0.1370 Acc:98.66%
+Training: Epoch[043/050]  Loss: 0.0965 Acc:98.95%
+[[ 124.  148.]
+ [  61. 2295.]]
+0.9204718417047184
+Training: Epoch[044/050]  Loss: 0.1261 Acc:98.75%
+Training: Epoch[045/050]  Loss: 0.0950 Acc:98.95%
+[[ 125.  147.]
+ [  61. 2295.]]
+0.9208523592085236
+Training: Epoch[046/050]  Loss: 0.1198 Acc:98.85%
+Training: Epoch[047/050]  Loss: 0.0933 Acc:98.85%
+[[ 128.  144.]
+ [  64. 2292.]]
+0.9208523592085236
+Training: Epoch[048/050]  Loss: 0.1140 Acc:98.85%
+Training: Epoch[049/050]  Loss: 0.0916 Acc:98.85%
+[[ 128.  144.]
+ [  64. 2292.]]
+0.9208523592085236
+Training: Epoch[050/050]  Loss: 0.1114 Acc:99.04%
+Training: Epoch[001/050]  Loss: 3.9323 Acc:60.73%
+[[   0.  272.]
+ [   0. 2356.]]
+0.8964992389649924
+Training: Epoch[002/050]  Loss: 2.9173 Acc:85.25%
+Training: Epoch[003/050]  Loss: 2.4914 Acc:85.25%
+[[   0.  272.]
+ [   0. 2356.]]
+0.8964992389649924
+Training: Epoch[004/050]  Loss: 2.2511 Acc:85.25%
+Training: Epoch[005/050]  Loss: 2.0662 Acc:85.25%
+[[   0.  272.]
+ [   0. 2356.]]
+0.8964992389649924
+Training: Epoch[006/050]  Loss: 1.8670 Acc:85.25%
+Training: Epoch[007/050]  Loss: 1.6254 Acc:85.25%
+[[   0.  272.]
+ [   0. 2356.]]
+0.8964992389649924
+Training: Epoch[008/050]  Loss: 1.3341 Acc:85.25%
+Training: Epoch[009/050]  Loss: 1.0136 Acc:86.11%
+[[  24.  248.]
+ [   5. 2351.]]
+0.9037290715372908
+Training: Epoch[010/050]  Loss: 0.7075 Acc:94.54%
+Training: Epoch[011/050]  Loss: 0.4297 Acc:97.32%
+[[ 116.  156.]
+ [  50. 2306.]]
+0.921613394216134
+Training: Epoch[012/050]  Loss: 0.2683 Acc:98.28%
+Training: Epoch[013/050]  Loss: 0.1882 Acc:99.04%
+[[ 144.  128.]
+ [  75. 2281.]]
+0.9227549467275494
+Training: Epoch[014/050]  Loss: 0.1499 Acc:99.14%
+Training: Epoch[015/050]  Loss: 0.1292 Acc:99.23%
+[[ 149.  123.]
+ [  83. 2273.]]
+0.921613394216134
+Training: Epoch[016/050]  Loss: 0.1166 Acc:99.23%
+Training: Epoch[017/050]  Loss: 0.1083 Acc:99.23%
+[[ 154.  118.]
+ [  90. 2266.]]
+0.9208523592085236
+Training: Epoch[018/050]  Loss: 0.1023 Acc:99.23%
+Training: Epoch[019/050]  Loss: 0.0986 Acc:99.23%
+[[ 155.  117.]
+ [  91. 2265.]]
+0.9208523592085236
+Training: Epoch[020/050]  Loss: 0.0975 Acc:99.23%
+Training: Epoch[021/050]  Loss: 0.1061 Acc:99.23%
+[[ 140.  132.]
+ [  73. 2283.]]
+0.9219939117199392
+Training: Epoch[022/050]  Loss: 0.1729 Acc:98.95%
+Training: Epoch[023/050]  Loss: 0.2269 Acc:97.89%
+[[ 146.  126.]
+ [  80. 2276.]]
+0.921613394216134
+Training: Epoch[024/050]  Loss: 0.0914 Acc:99.23%
+Training: Epoch[025/050]  Loss: 0.0858 Acc:98.95%
+[[ 133.  139.]
+ [  67. 2289.]]
+0.921613394216134
+Training: Epoch[026/050]  Loss: 0.1209 Acc:99.14%
+Training: Epoch[027/050]  Loss: 0.0926 Acc:98.85%
+[[ 117.  155.]
+ [  50. 2306.]]
+0.9219939117199392
+Training: Epoch[028/050]  Loss: 0.1626 Acc:98.47%
+Training: Epoch[029/050]  Loss: 0.0981 Acc:98.85%
+[[ 118.  154.]
+ [  54. 2302.]]
+0.9208523592085236
+Training: Epoch[030/050]  Loss: 0.1496 Acc:98.56%
+Training: Epoch[031/050]  Loss: 0.1031 Acc:98.75%
+[[ 118.  154.]
+ [  55. 2301.]]
+0.9204718417047184
+Training: Epoch[032/050]  Loss: 0.1436 Acc:98.56%
+Training: Epoch[033/050]  Loss: 0.1038 Acc:98.75%
+[[ 122.  150.]
+ [  59. 2297.]]
+0.9204718417047184
+Training: Epoch[034/050]  Loss: 0.1345 Acc:98.66%
+Training: Epoch[035/050]  Loss: 0.1020 Acc:98.75%
+[[ 125.  147.]
+ [  60. 2296.]]
+0.9212328767123288
+Training: Epoch[036/050]  Loss: 0.1261 Acc:98.75%
+Training: Epoch[037/050]  Loss: 0.1000 Acc:98.75%
+[[ 127.  145.]
+ [  62. 2294.]]
+0.9212328767123288
+Training: Epoch[038/050]  Loss: 0.1221 Acc:98.85%
+Training: Epoch[039/050]  Loss: 0.0988 Acc:98.75%
+[[ 127.  145.]
+ [  62. 2294.]]
+0.9212328767123288
+Training: Epoch[040/050]  Loss: 0.1200 Acc:98.85%
+Training: Epoch[041/050]  Loss: 0.0980 Acc:98.75%
+[[ 128.  144.]
+ [  63. 2293.]]
+0.9212328767123288
+Training: Epoch[042/050]  Loss: 0.1173 Acc:98.95%
+Training: Epoch[043/050]  Loss: 0.0970 Acc:98.75%
+[[ 129.  143.]
+ [  63. 2293.]]
+0.921613394216134
+Training: Epoch[044/050]  Loss: 0.1153 Acc:99.04%
+Training: Epoch[045/050]  Loss: 0.0961 Acc:98.75%
+[[ 130.  142.]
+ [  65. 2291.]]
+0.9212328767123288
+Training: Epoch[046/050]  Loss: 0.1125 Acc:99.04%
+Training: Epoch[047/050]  Loss: 0.0951 Acc:98.75%
+[[ 130.  142.]
+ [  65. 2291.]]
+0.9212328767123288
+Training: Epoch[048/050]  Loss: 0.1108 Acc:99.04%
+Training: Epoch[049/050]  Loss: 0.0943 Acc:98.75%
+[[ 131.  141.]
+ [  65. 2291.]]
+0.921613394216134
+Training: Epoch[050/050]  Loss: 0.1085 Acc:99.04%
+training 1D-CNN classifier for class8
+Training: Epoch[001/050]  Loss: 3.5950 Acc:56.34%
+[[   0.   83.]
+ [   0. 2377.]]
+0.9662601626016261
+Training: Epoch[002/050]  Loss: 2.5343 Acc:81.72%
+Training: Epoch[003/050]  Loss: 2.4036 Acc:81.72%
+[[   0.   83.]
+ [   0. 2377.]]
+0.9662601626016261
+Training: Epoch[004/050]  Loss: 2.2066 Acc:81.72%
+Training: Epoch[005/050]  Loss: 2.9872 Acc:81.72%
+[[   0.   83.]
+ [   0. 2377.]]
+0.9662601626016261
+Training: Epoch[006/050]  Loss: 2.0058 Acc:81.72%
+Training: Epoch[007/050]  Loss: 2.3271 Acc:81.72%
+[[   0.   83.]
+ [   0. 2377.]]
+0.9662601626016261
+Training: Epoch[008/050]  Loss: 1.4993 Acc:81.72%
+Training: Epoch[009/050]  Loss: 1.4108 Acc:81.72%
+[[   0.   83.]
+ [   0. 2377.]]
+0.9662601626016261
+Training: Epoch[010/050]  Loss: 0.7740 Acc:95.10%
+Training: Epoch[011/050]  Loss: 0.4711 Acc:97.90%
+[[4.000e+00 7.900e+01]
+ [1.000e+00 2.376e+03]]
+0.967479674796748
+Training: Epoch[012/050]  Loss: 0.2938 Acc:99.00%
+Training: Epoch[013/050]  Loss: 0.2027 Acc:99.10%
+[[  13.   70.]
+ [   6. 2371.]]
+0.9691056910569106
+Training: Epoch[014/050]  Loss: 0.1549 Acc:99.20%
+Training: Epoch[015/050]  Loss: 0.1266 Acc:99.40%
+[[  17.   66.]
+ [  18. 2359.]]
+0.9658536585365853
+Training: Epoch[016/050]  Loss: 0.1082 Acc:99.40%
+Training: Epoch[017/050]  Loss: 0.0955 Acc:99.40%
+[[  21.   62.]
+ [  27. 2350.]]
+0.9638211382113822
+Training: Epoch[018/050]  Loss: 0.0864 Acc:99.50%
+Training: Epoch[019/050]  Loss: 0.0796 Acc:99.50%
+[[  25.   58.]
+ [  37. 2340.]]
+0.9613821138211383
+Training: Epoch[020/050]  Loss: 0.0743 Acc:99.50%
+Training: Epoch[021/050]  Loss: 0.0701 Acc:99.50%
+[[  26.   57.]
+ [  42. 2335.]]
+0.9597560975609756
+Training: Epoch[022/050]  Loss: 0.0668 Acc:99.50%
+Training: Epoch[023/050]  Loss: 0.0641 Acc:99.50%
+[[  26.   57.]
+ [  46. 2331.]]
+0.958130081300813
+Training: Epoch[024/050]  Loss: 0.0621 Acc:99.60%
+Training: Epoch[025/050]  Loss: 0.0608 Acc:99.60%
+[[  26.   57.]
+ [  50. 2327.]]
+0.9565040650406504
+Training: Epoch[026/050]  Loss: 0.0602 Acc:99.60%
+Training: Epoch[027/050]  Loss: 0.0616 Acc:99.60%
+[[  25.   58.]
+ [  38. 2339.]]
+0.9609756097560975
+Training: Epoch[028/050]  Loss: 0.0704 Acc:99.50%
+Training: Epoch[029/050]  Loss: 0.1095 Acc:99.30%
+[[5.000e+00 7.800e+01]
+ [1.000e+00 2.376e+03]]
+0.9678861788617886
+Training: Epoch[030/050]  Loss: 0.1928 Acc:98.50%
+Training: Epoch[031/050]  Loss: 0.1611 Acc:99.00%
+[[  29.   54.]
+ [  58. 2319.]]
+0.9544715447154472
+Training: Epoch[032/050]  Loss: 0.0571 Acc:99.60%
+Training: Epoch[033/050]  Loss: 0.0566 Acc:99.70%
+[[  36.   47.]
+ [  76. 2301.]]
+0.95
+Training: Epoch[034/050]  Loss: 0.0561 Acc:99.70%
+Training: Epoch[035/050]  Loss: 0.0560 Acc:99.70%
+[[  37.   46.]
+ [  78. 2299.]]
+0.9495934959349593
+Training: Epoch[036/050]  Loss: 0.0558 Acc:99.70%
+Training: Epoch[037/050]  Loss: 0.0556 Acc:99.70%
+[[  38.   45.]
+ [  79. 2298.]]
+0.9495934959349593
+Training: Epoch[038/050]  Loss: 0.0555 Acc:99.70%
+Training: Epoch[039/050]  Loss: 0.0554 Acc:99.70%
+[[  39.   44.]
+ [  80. 2297.]]
+0.9495934959349593
+Training: Epoch[040/050]  Loss: 0.0554 Acc:99.70%
+Training: Epoch[041/050]  Loss: 0.0554 Acc:99.70%
+[[  39.   44.]
+ [  81. 2296.]]
+0.9491869918699187
+Training: Epoch[042/050]  Loss: 0.0554 Acc:99.70%
+Training: Epoch[043/050]  Loss: 0.0555 Acc:99.70%
+[[  39.   44.]
+ [  81. 2296.]]
+0.9491869918699187
+Training: Epoch[044/050]  Loss: 0.0555 Acc:99.70%
+Training: Epoch[045/050]  Loss: 0.0556 Acc:99.70%
+[[  40.   43.]
+ [  82. 2295.]]
+0.9491869918699187
+Training: Epoch[046/050]  Loss: 0.0555 Acc:99.70%
+Training: Epoch[047/050]  Loss: 0.0556 Acc:99.70%
+[[  40.   43.]
+ [  84. 2293.]]
+0.9483739837398374
+Training: Epoch[048/050]  Loss: 0.0555 Acc:99.70%
+Training: Epoch[049/050]  Loss: 0.0556 Acc:99.70%
+[[  40.   43.]
+ [  84. 2293.]]
+0.9483739837398374
+Training: Epoch[050/050]  Loss: 0.0552 Acc:99.70%
+Training: Epoch[001/050]  Loss: 2.8747 Acc:56.34%
+[[   0.   83.]
+ [   0. 2377.]]
+0.9662601626016261
+Training: Epoch[002/050]  Loss: 2.5068 Acc:81.72%
+Training: Epoch[003/050]  Loss: 2.5809 Acc:81.72%
+[[   0.   83.]
+ [   0. 2377.]]
+0.9662601626016261
+Training: Epoch[004/050]  Loss: 2.4753 Acc:81.72%
+Training: Epoch[005/050]  Loss: 2.3626 Acc:81.72%
+[[   0.   83.]
+ [   0. 2377.]]
+0.9662601626016261
+Training: Epoch[006/050]  Loss: 2.2307 Acc:81.72%
+Training: Epoch[007/050]  Loss: 2.1092 Acc:81.72%
+[[   0.   83.]
+ [   0. 2377.]]
+0.9662601626016261
+Training: Epoch[008/050]  Loss: 1.9851 Acc:81.72%
+Training: Epoch[009/050]  Loss: 1.7896 Acc:81.72%
+[[   0.   83.]
+ [   0. 2377.]]
+0.9662601626016261
+Training: Epoch[010/050]  Loss: 1.6386 Acc:81.72%
+Training: Epoch[011/050]  Loss: 1.3283 Acc:81.72%
+[[   0.   83.]
+ [   0. 2377.]]
+0.9662601626016261
+Training: Epoch[012/050]  Loss: 1.1118 Acc:82.02%
+Training: Epoch[013/050]  Loss: 0.7322 Acc:95.10%
+[[0.000e+00 8.300e+01]
+ [1.000e+00 2.376e+03]]
+0.9658536585365853
+Training: Epoch[014/050]  Loss: 0.4531 Acc:98.10%
+Training: Epoch[015/050]  Loss: 0.2735 Acc:98.90%
+[[7.000e+00 7.600e+01]
+ [2.000e+00 2.375e+03]]
+0.9682926829268292
+Training: Epoch[016/050]  Loss: 0.1766 Acc:99.10%
+Training: Epoch[017/050]  Loss: 0.1303 Acc:99.30%
+[[  16.   67.]
+ [  14. 2363.]]
+0.9670731707317073
+Training: Epoch[018/050]  Loss: 0.1058 Acc:99.40%
+Training: Epoch[019/050]  Loss: 0.0908 Acc:99.40%
+[[  21.   62.]
+ [  20. 2357.]]
+0.9666666666666667
+Training: Epoch[020/050]  Loss: 0.0814 Acc:99.50%
+Training: Epoch[021/050]  Loss: 0.0748 Acc:99.50%
+[[  23.   60.]
+ [  32. 2345.]]
+0.9626016260162602
+Training: Epoch[022/050]  Loss: 0.0699 Acc:99.60%
+Training: Epoch[023/050]  Loss: 0.0663 Acc:99.60%
+[[  25.   58.]
+ [  40. 2337.]]
+0.9601626016260163
+Training: Epoch[024/050]  Loss: 0.0635 Acc:99.60%
+Training: Epoch[025/050]  Loss: 0.0613 Acc:99.60%
+[[  27.   56.]
+ [  44. 2333.]]
+0.959349593495935
+Training: Epoch[026/050]  Loss: 0.0596 Acc:99.60%
+Training: Epoch[027/050]  Loss: 0.0581 Acc:99.60%
+[[  29.   54.]
+ [  48. 2329.]]
+0.9585365853658536
+Training: Epoch[028/050]  Loss: 0.0569 Acc:99.60%
+Training: Epoch[029/050]  Loss: 0.0558 Acc:99.60%
+[[  29.   54.]
+ [  54. 2323.]]
+0.9560975609756097
+Training: Epoch[030/050]  Loss: 0.0549 Acc:99.60%
+Training: Epoch[031/050]  Loss: 0.0542 Acc:99.60%
+[[  29.   54.]
+ [  62. 2315.]]
+0.9528455284552846
+Training: Epoch[032/050]  Loss: 0.0536 Acc:99.60%
+Training: Epoch[033/050]  Loss: 0.0536 Acc:99.70%
+[[  32.   51.]
+ [  73. 2304.]]
+0.9495934959349593
+Training: Epoch[034/050]  Loss: 0.0542 Acc:99.70%
+Training: Epoch[035/050]  Loss: 0.0542 Acc:99.70%
+[[  34.   49.]
+ [  72. 2305.]]
+0.9508130081300813
+Training: Epoch[036/050]  Loss: 0.0541 Acc:99.70%
+Training: Epoch[037/050]  Loss: 0.0541 Acc:99.70%
+[[  34.   49.]
+ [  74. 2303.]]
+0.95
+Training: Epoch[038/050]  Loss: 0.0541 Acc:99.70%
+Training: Epoch[039/050]  Loss: 0.0541 Acc:99.70%
+[[  34.   49.]
+ [  74. 2303.]]
+0.95
+Training: Epoch[040/050]  Loss: 0.0541 Acc:99.70%
+Training: Epoch[041/050]  Loss: 0.0543 Acc:99.70%
+[[  34.   49.]
+ [  77. 2300.]]
+0.948780487804878
+Training: Epoch[042/050]  Loss: 0.0544 Acc:99.70%
+Training: Epoch[043/050]  Loss: 0.0544 Acc:99.70%
+[[  34.   49.]
+ [  79. 2298.]]
+0.9479674796747968
+Training: Epoch[044/050]  Loss: 0.0543 Acc:99.70%
+Training: Epoch[045/050]  Loss: 0.0542 Acc:99.70%
+[[  34.   49.]
+ [  79. 2298.]]
+0.9479674796747968
+Training: Epoch[046/050]  Loss: 0.0541 Acc:99.70%
+Training: Epoch[047/050]  Loss: 0.0540 Acc:99.70%
+[[  35.   48.]
+ [  79. 2298.]]
+0.9483739837398374
+Training: Epoch[048/050]  Loss: 0.0538 Acc:99.70%
+Training: Epoch[049/050]  Loss: 0.0536 Acc:99.70%
+[[  35.   48.]
+ [  80. 2297.]]
+0.9479674796747968
+Training: Epoch[050/050]  Loss: 0.0535 Acc:99.70%
+training 1D-CNN classifier for class9
+Training: Epoch[001/050]  Loss: 3.0756 Acc:57.13%
+[[   0.  345.]
+ [   0. 2106.]]
+0.8592411260709915
+Training: Epoch[002/050]  Loss: 2.2832 Acc:83.38%
+Training: Epoch[003/050]  Loss: 2.2660 Acc:83.38%
+[[   0.  345.]
+ [   0. 2106.]]
+0.8592411260709915
+Training: Epoch[004/050]  Loss: 2.0959 Acc:83.38%
+Training: Epoch[005/050]  Loss: 1.9118 Acc:83.38%
+[[   0.  345.]
+ [   0. 2106.]]
+0.8592411260709915
+Training: Epoch[006/050]  Loss: 1.7037 Acc:83.38%
+Training: Epoch[007/050]  Loss: 1.4960 Acc:83.38%
+[[   0.  345.]
+ [   0. 2106.]]
+0.8592411260709915
+Training: Epoch[008/050]  Loss: 1.2041 Acc:83.38%
+Training: Epoch[009/050]  Loss: 0.8926 Acc:91.59%
+[[ 172.  173.]
+ [  21. 2085.]]
+0.9208486332109344
+Training: Epoch[010/050]  Loss: 0.5421 Acc:97.44%
+Training: Epoch[011/050]  Loss: 0.3002 Acc:98.67%
+[[ 251.   94.]
+ [  70. 2036.]]
+0.9330885352917176
+Training: Epoch[012/050]  Loss: 0.1890 Acc:99.28%
+Training: Epoch[013/050]  Loss: 0.1390 Acc:99.38%
+[[ 268.   77.]
+ [  95. 2011.]]
+0.9298245614035088
+Training: Epoch[014/050]  Loss: 0.1135 Acc:99.38%
+Training: Epoch[015/050]  Loss: 0.0983 Acc:99.38%
+[[ 276.   69.]
+ [ 101. 2005.]]
+0.930640554875561
+Training: Epoch[016/050]  Loss: 0.0885 Acc:99.38%
+Training: Epoch[017/050]  Loss: 0.0817 Acc:99.49%
+[[ 283.   62.]
+ [ 106. 2000.]]
+0.9314565483476133
+Training: Epoch[018/050]  Loss: 0.0768 Acc:99.49%
+Training: Epoch[019/050]  Loss: 0.0731 Acc:99.49%
+[[ 284.   61.]
+ [ 110. 1996.]]
+0.9302325581395349
+Training: Epoch[020/050]  Loss: 0.0704 Acc:99.49%
+Training: Epoch[021/050]  Loss: 0.0683 Acc:99.59%
+[[ 285.   60.]
+ [ 113. 1993.]]
+0.9294165646674827
+Training: Epoch[022/050]  Loss: 0.0668 Acc:99.59%
+Training: Epoch[023/050]  Loss: 0.0657 Acc:99.59%
+[[ 285.   60.]
+ [ 111. 1995.]]
+0.9302325581395349
+Training: Epoch[024/050]  Loss: 0.0651 Acc:99.59%
+Training: Epoch[025/050]  Loss: 0.0650 Acc:99.59%
+[[ 283.   62.]
+ [ 109. 1997.]]
+0.9302325581395349
+Training: Epoch[026/050]  Loss: 0.0656 Acc:99.59%
+Training: Epoch[027/050]  Loss: 0.0671 Acc:99.59%
+[[ 278.   67.]
+ [ 104. 2002.]]
+0.9302325581395349
+Training: Epoch[028/050]  Loss: 0.0691 Acc:99.59%
+Training: Epoch[029/050]  Loss: 0.0707 Acc:99.59%
+[[ 273.   72.]
+ [ 100. 2006.]]
+0.9298245614035088
+Training: Epoch[030/050]  Loss: 0.0691 Acc:99.59%
+Training: Epoch[031/050]  Loss: 0.0625 Acc:99.59%
+[[ 286.   59.]
+ [ 112. 1994.]]
+0.9302325581395349
+Training: Epoch[032/050]  Loss: 0.0550 Acc:99.59%
+Training: Epoch[033/050]  Loss: 0.0534 Acc:99.59%
+[[ 286.   59.]
+ [ 110. 1996.]]
+0.9310485516115871
+Training: Epoch[034/050]  Loss: 0.0542 Acc:99.59%
+Training: Epoch[035/050]  Loss: 0.0532 Acc:99.59%
+[[ 284.   61.]
+ [ 111. 1995.]]
+0.9298245614035088
+Training: Epoch[036/050]  Loss: 0.0536 Acc:99.59%
+Training: Epoch[037/050]  Loss: 0.0536 Acc:99.59%
+[[ 282.   63.]
+ [ 111. 1995.]]
+0.9290085679314566
+Training: Epoch[038/050]  Loss: 0.0538 Acc:99.59%
+Training: Epoch[039/050]  Loss: 0.0542 Acc:99.59%
+[[ 280.   65.]
+ [ 107. 1999.]]
+0.9298245614035088
+Training: Epoch[040/050]  Loss: 0.0548 Acc:99.59%
+Training: Epoch[041/050]  Loss: 0.0551 Acc:99.59%
+[[ 279.   66.]
+ [ 105. 2001.]]
+0.9302325581395349
+Training: Epoch[042/050]  Loss: 0.0551 Acc:99.59%
+Training: Epoch[043/050]  Loss: 0.0544 Acc:99.59%
+[[ 280.   65.]
+ [ 107. 1999.]]
+0.9298245614035088
+Training: Epoch[044/050]  Loss: 0.0527 Acc:99.59%
+Training: Epoch[045/050]  Loss: 0.0506 Acc:99.59%
+[[ 282.   63.]
+ [ 111. 1995.]]
+0.9290085679314566
+Training: Epoch[046/050]  Loss: 0.0491 Acc:99.59%
+Training: Epoch[047/050]  Loss: 0.0488 Acc:99.59%
+[[ 281.   64.]
+ [ 111. 1995.]]
+0.9286005711954305
+Training: Epoch[048/050]  Loss: 0.0487 Acc:99.59%
+Training: Epoch[049/050]  Loss: 0.0485 Acc:99.59%
+[[ 281.   64.]
+ [ 110. 1996.]]
+0.9290085679314566
+Training: Epoch[050/050]  Loss: 0.0482 Acc:99.59%
+Training: Epoch[001/050]  Loss: 4.0073 Acc:64.10%
+[[   0.  345.]
+ [   0. 2106.]]
+0.8592411260709915
+Training: Epoch[002/050]  Loss: 2.6703 Acc:83.38%
+Training: Epoch[003/050]  Loss: 2.3000 Acc:83.38%
+[[   0.  345.]
+ [   0. 2106.]]
+0.8592411260709915
+Training: Epoch[004/050]  Loss: 2.3120 Acc:83.38%
+Training: Epoch[005/050]  Loss: 2.1462 Acc:83.38%
+[[   0.  345.]
+ [   0. 2106.]]
+0.8592411260709915
+Training: Epoch[006/050]  Loss: 2.0508 Acc:83.38%
+Training: Epoch[007/050]  Loss: 1.8620 Acc:83.38%
+[[   0.  345.]
+ [   0. 2106.]]
+0.8592411260709915
+Training: Epoch[008/050]  Loss: 1.8074 Acc:83.38%
+Training: Epoch[009/050]  Loss: 1.5372 Acc:83.38%
+[[   0.  345.]
+ [   0. 2106.]]
+0.8592411260709915
+Training: Epoch[010/050]  Loss: 1.2183 Acc:83.38%
+Training: Epoch[011/050]  Loss: 0.7616 Acc:95.08%
+[[ 192.  153.]
+ [  31. 2075.]]
+0.9249286005711954
+Training: Epoch[012/050]  Loss: 0.4730 Acc:97.85%
+Training: Epoch[013/050]  Loss: 0.2324 Acc:99.08%
+[[ 265.   80.]
+ [  89. 2017.]]
+0.9310485516115871
+Training: Epoch[014/050]  Loss: 0.1503 Acc:99.49%
+Training: Epoch[015/050]  Loss: 0.1182 Acc:99.38%
+[[ 277.   68.]
+ [ 101. 2005.]]
+0.9310485516115871
+Training: Epoch[016/050]  Loss: 0.1003 Acc:99.38%
+Training: Epoch[017/050]  Loss: 0.0898 Acc:99.38%
+[[ 280.   65.]
+ [ 108. 1998.]]
+0.9294165646674827
+Training: Epoch[018/050]  Loss: 0.0829 Acc:99.38%
+Training: Epoch[019/050]  Loss: 0.0778 Acc:99.38%
+[[ 284.   61.]
+ [ 113. 1993.]]
+0.9290085679314566
+Training: Epoch[020/050]  Loss: 0.0744 Acc:99.49%
+Training: Epoch[021/050]  Loss: 0.0720 Acc:99.49%
+[[ 286.   59.]
+ [ 116. 1990.]]
+0.9286005711954305
+Training: Epoch[022/050]  Loss: 0.0706 Acc:99.49%
+Training: Epoch[023/050]  Loss: 0.0704 Acc:99.49%
+[[ 284.   61.]
+ [ 112. 1994.]]
+0.9294165646674827
+Training: Epoch[024/050]  Loss: 0.0722 Acc:99.49%
+Training: Epoch[025/050]  Loss: 0.0780 Acc:99.38%
+[[ 273.   72.]
+ [  97. 2009.]]
+0.9310485516115871
+Training: Epoch[026/050]  Loss: 0.0931 Acc:99.38%
+Training: Epoch[027/050]  Loss: 0.1218 Acc:99.28%
+[[ 254.   91.]
+ [  77. 2029.]]
+0.9314565483476133
+Training: Epoch[028/050]  Loss: 0.1388 Acc:99.18%
+Training: Epoch[029/050]  Loss: 0.0992 Acc:99.38%
+[[ 288.   57.]
+ [ 122. 1984.]]
+0.926968584251326
+Training: Epoch[030/050]  Loss: 0.0545 Acc:99.59%
+Training: Epoch[031/050]  Loss: 0.0526 Acc:99.59%
+[[ 287.   58.]
+ [ 121. 1985.]]
+0.926968584251326
+Training: Epoch[032/050]  Loss: 0.0534 Acc:99.59%
+Training: Epoch[033/050]  Loss: 0.0520 Acc:99.59%
+[[ 287.   58.]
+ [ 119. 1987.]]
+0.9277845777233782
+Training: Epoch[034/050]  Loss: 0.0527 Acc:99.59%
+Training: Epoch[035/050]  Loss: 0.0517 Acc:99.59%
+[[ 287.   58.]
+ [ 119. 1987.]]
+0.9277845777233782
+Training: Epoch[036/050]  Loss: 0.0524 Acc:99.59%
+Training: Epoch[037/050]  Loss: 0.0524 Acc:99.59%
+[[ 286.   59.]
+ [ 116. 1990.]]
+0.9286005711954305
+Training: Epoch[038/050]  Loss: 0.0533 Acc:99.59%
+Training: Epoch[039/050]  Loss: 0.0551 Acc:99.59%
+[[ 282.   63.]
+ [ 109. 1997.]]
+0.9298245614035088
+Training: Epoch[040/050]  Loss: 0.0587 Acc:99.59%
+Training: Epoch[041/050]  Loss: 0.0651 Acc:99.49%
+[[ 274.   71.]
+ [  98. 2008.]]
+0.9310485516115871
+Training: Epoch[042/050]  Loss: 0.0753 Acc:99.38%
+Training: Epoch[043/050]  Loss: 0.0864 Acc:99.18%
+[[ 266.   79.]
+ [  89. 2017.]]
+0.9314565483476133
+Training: Epoch[044/050]  Loss: 0.0892 Acc:99.18%
+Training: Epoch[045/050]  Loss: 0.0710 Acc:99.28%
+[[ 286.   59.]
+ [ 121. 1985.]]
+0.9265605875152999
+Training: Epoch[046/050]  Loss: 0.0478 Acc:99.59%
+Training: Epoch[047/050]  Loss: 0.0450 Acc:99.59%
+[[ 284.   61.]
+ [ 114. 1992.]]
+0.9286005711954305
+Training: Epoch[048/050]  Loss: 0.0480 Acc:99.59%
+Training: Epoch[049/050]  Loss: 0.0439 Acc:99.49%
+[[ 282.   63.]
+ [ 109. 1997.]]
+0.9298245614035088
+Training: Epoch[050/050]  Loss: 0.0480 Acc:99.59%
