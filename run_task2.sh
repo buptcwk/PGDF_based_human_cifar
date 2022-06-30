@@ -4,4 +4,4 @@ CUDA_VISIBLE_DEVICES=1 nohup python train_cifar_getPrior.py --preset c10.20sym -
 
 CUDA_VISIBLE_DEVICES=2 nohup python train_cifar_getPrior.py --preset c10.20sym --noise_type aggre > c10_aggre.log&&CUDA_VISIBLE_DEVICES=2 nohup python train_cifar.py --preset c10.20sym --noise_type aggre > c10_aggre_stage2.log && nohup python test.py --noise_type aggre --dataset cifar10 > c10_aggre_detect.log & 
 
-CUDA_VISIBLE_DEVICES=4 nohup python train_cifar_getPrior.py --preset c100.50sym --noise_type noisy100 > c100.log&
+CUDA_VISIBLE_DEVICES=4 nohup python train_cifar100.py --preset c100.50sym --noise_type noisy100 > c100_stage2.log && nohup python test.py --noise_type noisy100 --dataset cifar100 > c100_noisy100_detect.log & 
